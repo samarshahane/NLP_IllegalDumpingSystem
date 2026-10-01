@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+*.so
+
+# Virtual environments
+venv/
+env/
+.env/
+.venv/
+
+# Environment variables
+.env
+
+# Streamlit
+.streamlit/
+
+# Data files (large / generated)
+dumpwatch/data/dumpwatch_db.json
+dumpwatch/data/reports.csv
+dumpwatch/data/geocode_cache.json
+dumpwatch/data/images/
+dumpwatch/data/waste_types.json
+
+# Keep sample data
+!dumpwatch/data/sample_reports.csv
+
+# HuggingFace / model caches
+*.cache/
+transformers_cache/
+sentence_transformers/
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

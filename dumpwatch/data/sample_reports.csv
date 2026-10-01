@@ -1,0 +1,601 @@
+report_id,raw_text,source,locality,lat,lon,waste_type,severity,timestamp,has_image,is_dumping
+REP-0001,Continuous open burning and dumping of construction debris near Ghodbunder Road drain.,citizen,Ghodbunder Road,19.2611,72.96927,construction debris,1,2026-09-14 15:37:55,False,True
+REP-0002,Illegal dumping of organic waste noticed behind Ghodbunder Road market area.,twitter,Ghodbunder Road,19.2669,72.96015,organic waste,2,2026-07-16 17:12:21,True,True
+REP-0003,Bohot sara garbage aur household garbage fela hua hai near Diva bridge.,email,Diva,19.18965,73.03852,household garbage,1,2026-06-25 14:53:18,False,True
+REP-0004,People are throwing construction debris right on the side of Kalwa road.,citizen,Kalwa,19.19105,72.99389,construction debris,3,2026-07-14 03:00:26,False,True
+REP-0005,Huge pile of medical waste dumped near Diva station. Smelling horrible.,twitter,Diva,19.18501,73.04689,medical waste,3,2026-09-22 03:50:18,True,True
+REP-0006,People are throwing organic waste right on the side of Ghodbunder Road road.,twitter,Ghodbunder Road,19.26587,72.96717,organic waste,3,2026-09-01 04:03:29,False,True
+REP-0007,Illegal dumping of medical waste noticed behind Mumbra market area.,form,Mumbra,19.17992,73.01658,medical waste,5,2026-09-04 02:50:55,True,True
+REP-0008,People are throwing plastic waste right on the side of Mumbra road.,twitter,Mumbra,19.17218,73.02403,plastic waste,2,2026-08-10 12:44:13,False,True
+REP-0009,Illegal dumping of industrial waste noticed behind Kolshet market area.,citizen,Kolshet,19.22776,72.98633,industrial waste,4,2026-09-29 06:39:12,False,True
+REP-0010,Illegal dumping of plastic waste noticed behind Naupada market area.,form,Naupada,19.19159,72.97388,plastic waste,3,2026-08-12 00:33:43,False,True
+REP-0011,Huge pile of e-waste dumped near Kopri station. Smelling horrible.,citizen,Kopri,19.18135,72.97969,e-waste,1,2026-07-07 07:36:27,False,True
+REP-0012,People are throwing organic waste right on the side of Kolshet road.,citizen,Kolshet,19.22827,72.98804,organic waste,2,2026-08-16 16:17:56,True,True
+REP-0013,Chemical & medical waste openly dumped near school in Mumbra.,form,Mumbra,19.17411,73.01754,medical waste,4,2026-09-03 12:50:47,False,True
+REP-0014,Illegal dumping of household garbage noticed behind Mumbra market area.,form,Mumbra,19.1713,73.01952,household garbage,3,2026-07-25 15:51:33,True,True
+REP-0015,People are throwing medical waste right on the side of Kolshet road.,form,Kolshet,19.2272,72.99088,medical waste,4,2026-09-16 16:14:13,False,True
+REP-0016,Streetlights not working on main road in Ghodbunder Road.,citizen,Ghodbunder Road,19.26611,72.96836,none,1,2026-08-23 16:55:46,True,False
+REP-0017,Continuous open burning and dumping of household garbage near Ghodbunder Road drain.,citizen,Ghodbunder Road,19.26921,72.96279,household garbage,1,2026-08-05 07:20:33,True,True
+REP-0018,Huge pile of medical waste dumped near Ghodbunder Road station. Smelling horrible.,email,Ghodbunder Road,19.2624,72.96253,medical waste,4,2026-08-08 23:58:52,False,True
+REP-0019,Streetlights not working on main road in Ghodbunder Road.,twitter,Ghodbunder Road,19.2649,72.96726,none,1,2026-09-04 02:54:22,True,False
+REP-0020,People are throwing medical waste right on the side of Kopri road.,email,Kopri,19.18344,72.97678,medical waste,3,2026-07-17 22:47:28,False,True
+REP-0021,Chemical & e-waste openly dumped near school in Kolshet.,twitter,Kolshet,19.23218,72.99085,e-waste,1,2026-09-01 09:11:23,False,True
+REP-0022,Huge pile of industrial waste dumped near Majiwada station. Smelling horrible.,twitter,Majiwada,19.21661,72.98456,industrial waste,3,2026-08-12 08:47:20,True,True
+REP-0023,Bohot sara garbage aur e-waste fela hua hai near Wagle Estate bridge.,twitter,Wagle Estate,19.20029,72.95299,e-waste,4,2026-09-14 18:16:58,True,True
+REP-0024,Streetlights not working on main road in Kalwa.,email,Kalwa,19.19994,72.9964,none,1,2026-07-04 09:49:30,False,False
+REP-0025,People are throwing household garbage right on the side of Mumbra road.,citizen,Mumbra,19.17349,73.02089,household garbage,4,2026-08-13 17:41:47,True,True
+REP-0026,"Bus stop roof broken in Ghodbunder Road, please fix soon.",email,Ghodbunder Road,19.26573,72.96747,none,1,2026-08-21 06:32:32,False,False
+REP-0027,People are throwing e-waste right on the side of Kalwa road.,email,Kalwa,19.19805,72.99457,e-waste,4,2026-06-14 11:34:25,False,True
+REP-0028,Bohot sara garbage aur e-waste fela hua hai near Wagle Estate bridge.,twitter,Wagle Estate,19.19812,72.95301,e-waste,3,2026-07-01 09:47:09,False,True
+REP-0029,"Bus stop roof broken in Wagle Estate, please fix soon.",citizen,Wagle Estate,19.19771,72.94981,none,1,2026-09-25 07:46:41,False,False
+REP-0030,People are throwing e-waste right on the side of Ghodbunder Road road.,email,Ghodbunder Road,19.26548,72.96482,e-waste,4,2026-08-13 10:56:34,False,True
+REP-0031,Huge pile of plastic waste dumped near Kopri station. Smelling horrible.,form,Kopri,19.17997,72.97664,plastic waste,1,2026-08-22 03:51:33,False,True
+REP-0032,Urgent action needed! Lots of organic waste accumulating in Diva.,form,Diva,19.19187,73.0412,organic waste,3,2026-09-21 21:11:47,False,True
+REP-0033,Urgent action needed! Lots of household garbage accumulating in Kolshet.,twitter,Kolshet,19.23014,72.98319,household garbage,1,2026-09-12 17:44:58,False,True
+REP-0034,Chemical & medical waste openly dumped near school in Naupada.,twitter,Naupada,19.1905,72.97174,medical waste,4,2026-09-29 02:00:06,False,True
+REP-0035,Huge pile of e-waste dumped near Wagle Estate station. Smelling horrible.,citizen,Wagle Estate,19.20032,72.94954,e-waste,2,2026-08-30 22:38:38,True,True
+REP-0036,Urgent action needed! Lots of plastic waste accumulating in Ghodbunder Road.,email,Ghodbunder Road,19.26969,72.96984,plastic waste,4,2026-06-13 09:44:08,False,True
+REP-0037,"Bus stop roof broken in Diva, please fix soon.",email,Diva,19.18579,73.04573,none,1,2026-09-25 00:36:13,False,False
+REP-0038,People are throwing e-waste right on the side of Kopri road.,email,Kopri,19.17992,72.97663,e-waste,1,2026-09-11 23:54:54,False,True
+REP-0039,People are throwing e-waste right on the side of Diva road.,form,Diva,19.18768,73.04317,e-waste,4,2026-07-25 13:56:01,True,True
+REP-0040,Huge pile of construction debris dumped near Diva station. Smelling horrible.,citizen,Diva,19.1907,73.04178,construction debris,2,2026-08-31 13:49:57,False,True
+REP-0041,"Bus stop roof broken in Naupada, please fix soon.",email,Naupada,19.19389,72.96983,none,1,2026-08-31 07:14:18,False,False
+REP-0042,Urgent action needed! Lots of plastic waste accumulating in Kopri.,email,Kopri,19.17777,72.97833,plastic waste,3,2026-08-13 05:40:53,False,True
+REP-0043,Chemical & e-waste openly dumped near school in Diva.,form,Diva,19.18584,73.04507,e-waste,1,2026-09-13 15:03:06,False,True
+REP-0044,Bohot sara garbage aur industrial waste fela hua hai near Kopri bridge.,twitter,Kopri,19.18525,72.97777,industrial waste,5,2026-09-24 07:21:10,False,True
+REP-0045,Continuous open burning and dumping of construction debris near Wagle Estate drain.,twitter,Wagle Estate,19.20223,72.94976,construction debris,3,2026-08-01 22:25:23,True,True
+REP-0046,Illegal dumping of construction debris noticed behind Naupada market area.,citizen,Naupada,19.18736,72.96733,construction debris,1,2026-09-20 01:12:00,False,True
+REP-0047,Potholes on the main flyover in Naupada causing heavy traffic.,email,Naupada,19.18749,72.96758,none,1,2026-08-04 12:20:39,False,False
+REP-0048,Bohot sara garbage aur industrial waste fela hua hai near Diva bridge.,form,Diva,19.18365,73.03736,industrial waste,4,2026-08-30 11:03:16,False,True
+REP-0049,Bohot sara garbage aur household garbage fela hua hai near Kalwa bridge.,citizen,Kalwa,19.19681,72.99459,household garbage,4,2026-06-06 13:33:40,False,True
+REP-0050,Low water pressure in residential area of Ghodbunder Road.,twitter,Ghodbunder Road,19.26108,72.96971,none,1,2026-09-10 07:06:21,False,False
+REP-0051,Huge pile of construction debris dumped near Vartak Nagar station. Smelling horrible.,form,Vartak Nagar,19.21063,72.9596,construction debris,1,2026-06-07 12:23:58,False,True
+REP-0052,People are throwing e-waste right on the side of Ghodbunder Road road.,email,Ghodbunder Road,19.26212,72.96146,e-waste,1,2026-06-08 17:21:59,False,True
+REP-0053,Severe heap of organic waste blocking footpaths in Diva nagar.,email,Diva,19.19247,73.0464,organic waste,4,2026-08-30 17:05:55,True,True
+REP-0054,Urgent action needed! Lots of e-waste accumulating in Kopri.,citizen,Kopri,19.1861,72.98173,e-waste,2,2026-09-30 01:46:58,False,True
+REP-0055,People are throwing medical waste right on the side of Naupada road.,twitter,Naupada,19.19017,72.97571,medical waste,3,2026-09-27 00:09:28,True,True
+REP-0056,Huge pile of industrial waste dumped near Wagle Estate station. Smelling horrible.,email,Wagle Estate,19.19766,72.95151,industrial waste,3,2026-09-18 07:46:53,True,True
+REP-0057,Severe heap of industrial waste blocking footpaths in Vartak Nagar nagar.,citizen,Vartak Nagar,19.21113,72.96094,industrial waste,5,2026-09-28 16:12:23,True,True
+REP-0058,Bohot sara garbage aur organic waste fela hua hai near Mumbra bridge.,form,Mumbra,19.17462,73.02137,organic waste,4,2026-08-11 23:12:40,True,True
+REP-0059,Chemical & household garbage openly dumped near school in Ghodbunder Road.,twitter,Ghodbunder Road,19.26504,72.9673,household garbage,4,2026-09-20 14:49:05,False,True
+REP-0060,Severe heap of e-waste blocking footpaths in Wagle Estate nagar.,email,Wagle Estate,19.19825,72.95243,e-waste,4,2026-09-21 23:34:09,False,True
+REP-0061,Severe heap of e-waste blocking footpaths in Mumbra nagar.,twitter,Mumbra,19.17623,73.02227,e-waste,4,2026-09-05 08:02:03,False,True
+REP-0062,Low water pressure in residential area of Ghodbunder Road.,email,Ghodbunder Road,19.26833,72.96299,none,1,2026-08-03 06:09:22,False,False
+REP-0063,Continuous open burning and dumping of e-waste near Kopri drain.,form,Kopri,19.18356,72.9787,e-waste,3,2026-07-26 05:13:50,False,True
+REP-0064,Potholes on the main flyover in Ghodbunder Road causing heavy traffic.,form,Ghodbunder Road,19.26169,72.96457,none,1,2026-09-10 18:16:03,False,False
+REP-0065,People are throwing plastic waste right on the side of Kopri road.,twitter,Kopri,19.18181,72.97934,plastic waste,4,2026-09-15 12:25:28,False,True
+REP-0066,Illegal dumping of plastic waste noticed behind Majiwada market area.,email,Majiwada,19.22125,72.98532,plastic waste,2,2026-08-05 17:10:50,False,True
+REP-0067,Severe heap of e-waste blocking footpaths in Ghodbunder Road nagar.,form,Ghodbunder Road,19.26484,72.9675,e-waste,4,2026-09-13 14:39:42,False,True
+REP-0068,Illegal dumping of e-waste noticed behind Kopri market area.,citizen,Kopri,19.17955,72.98222,e-waste,2,2026-08-07 09:23:03,False,True
+REP-0069,Streetlights not working on main road in Ghodbunder Road.,form,Ghodbunder Road,19.26921,72.96789,none,1,2026-08-14 03:37:10,False,False
+REP-0070,People are throwing plastic waste right on the side of Ghodbunder Road road.,form,Ghodbunder Road,19.26477,72.96367,plastic waste,2,2026-07-27 13:35:37,False,True
+REP-0071,Potholes on the main flyover in Diva causing heavy traffic.,email,Diva,19.18849,73.04605,none,1,2026-09-17 22:31:30,False,False
+REP-0072,Severe heap of household garbage blocking footpaths in Kopri nagar.,citizen,Kopri,19.18112,72.97683,household garbage,4,2026-06-19 08:47:57,True,True
+REP-0073,Severe heap of construction debris blocking footpaths in Kolshet nagar.,citizen,Kolshet,19.23566,72.98807,construction debris,4,2026-09-21 12:57:52,True,True
+REP-0074,Chemical & organic waste openly dumped near school in Ghodbunder Road.,email,Ghodbunder Road,19.26048,72.96275,organic waste,3,2026-08-16 06:32:17,False,True
+REP-0075,Huge pile of construction debris dumped near Wagle Estate station. Smelling horrible.,citizen,Wagle Estate,19.19739,72.95541,construction debris,2,2026-06-14 11:51:22,True,True
+REP-0076,"Bus stop roof broken in Naupada, please fix soon.",twitter,Naupada,19.19089,72.9728,none,1,2026-09-05 01:29:31,False,False
+REP-0077,Bohot sara garbage aur organic waste fela hua hai near Ghodbunder Road bridge.,twitter,Ghodbunder Road,19.26778,72.96878,organic waste,3,2026-09-09 14:58:57,False,True
+REP-0078,Potholes on the main flyover in Kopri causing heavy traffic.,citizen,Kopri,19.18347,72.98214,none,1,2026-09-27 08:34:47,False,False
+REP-0079,Low water pressure in residential area of Kolshet.,citizen,Kolshet,19.22947,72.99285,none,1,2026-09-12 00:06:57,False,False
+REP-0080,Streetlights not working on main road in Kopri.,citizen,Kopri,19.18448,72.97844,none,1,2026-09-20 15:59:31,True,False
+REP-0081,Water pipeline leaking near Kopri junction since morning.,citizen,Kopri,19.18175,72.98187,none,1,2026-07-31 19:31:17,False,False
+REP-0082,Urgent action needed! Lots of household garbage accumulating in Mumbra.,citizen,Mumbra,19.17754,73.01751,household garbage,4,2026-07-13 01:08:39,False,True
+REP-0083,Urgent action needed! Lots of plastic waste accumulating in Naupada.,citizen,Naupada,19.18887,72.9681,plastic waste,1,2026-07-18 15:43:05,False,True
+REP-0084,Illegal dumping of medical waste noticed behind Ghodbunder Road market area.,form,Ghodbunder Road,19.26681,72.96536,medical waste,3,2026-08-08 06:54:21,True,True
+REP-0085,Severe heap of medical waste blocking footpaths in Mumbra nagar.,twitter,Mumbra,19.17391,73.018,medical waste,3,2026-06-27 20:40:09,False,True
+REP-0086,Potholes on the main flyover in Mumbra causing heavy traffic.,email,Mumbra,19.17394,73.02,none,1,2026-09-02 18:45:31,False,False
+REP-0087,Bohot sara garbage aur plastic waste fela hua hai near Mumbra bridge.,citizen,Mumbra,19.17375,73.01996,plastic waste,1,2026-09-23 04:30:35,False,True
+REP-0088,Water pipeline leaking near Mumbra junction since morning.,twitter,Mumbra,19.17616,73.02474,none,1,2026-09-01 13:25:10,True,False
+REP-0089,People are throwing medical waste right on the side of Ghodbunder Road road.,citizen,Ghodbunder Road,19.26519,72.9614,medical waste,3,2026-08-14 22:14:15,False,True
+REP-0090,Continuous open burning and dumping of organic waste near Ghodbunder Road drain.,citizen,Ghodbunder Road,19.26626,72.96184,organic waste,4,2026-08-12 16:47:09,False,True
+REP-0091,"Bus stop roof broken in Ghodbunder Road, please fix soon.",citizen,Ghodbunder Road,19.26641,72.96343,none,1,2026-08-09 10:06:57,False,False
+REP-0092,People are throwing e-waste right on the side of Wagle Estate road.,citizen,Wagle Estate,19.20091,72.95262,e-waste,3,2026-09-19 22:12:38,True,True
+REP-0093,Urgent action needed! Lots of organic waste accumulating in Diva.,twitter,Diva,19.19223,73.04094,organic waste,1,2026-08-31 10:07:51,True,True
+REP-0094,Low water pressure in residential area of Mumbra.,citizen,Mumbra,19.17125,73.01977,none,1,2026-08-17 09:44:11,True,False
+REP-0095,People are throwing construction debris right on the side of Mumbra road.,form,Mumbra,19.17536,73.01535,construction debris,2,2026-08-17 01:44:09,False,True
+REP-0096,Urgent action needed! Lots of medical waste accumulating in Kolshet.,twitter,Kolshet,19.23255,72.98487,medical waste,4,2026-09-26 22:39:15,False,True
+REP-0097,"Bus stop roof broken in Ghodbunder Road, please fix soon.",citizen,Ghodbunder Road,19.26861,72.96676,none,1,2026-08-03 11:18:26,False,False
+REP-0098,Streetlights not working on main road in Mumbra.,form,Mumbra,19.1706,73.01843,none,1,2026-09-08 11:55:23,True,False
+REP-0099,Water pipeline leaking near Mumbra junction since morning.,twitter,Mumbra,19.17655,73.01607,none,1,2026-07-02 08:57:12,True,False
+REP-0100,Illegal dumping of industrial waste noticed behind Mumbra market area.,form,Mumbra,19.17632,73.01564,industrial waste,3,2026-07-18 00:38:12,False,True
+REP-0101,Continuous open burning and dumping of organic waste near Vartak Nagar drain.,citizen,Vartak Nagar,19.21275,72.96357,organic waste,1,2026-09-24 06:16:24,True,True
+REP-0102,Continuous open burning and dumping of plastic waste near Wagle Estate drain.,email,Wagle Estate,19.2023,72.95324,plastic waste,3,2026-06-13 18:42:23,True,True
+REP-0103,Illegal dumping of industrial waste noticed behind Naupada market area.,email,Naupada,19.19538,72.97319,industrial waste,3,2026-07-30 17:05:40,False,True
+REP-0104,Low water pressure in residential area of Kalwa.,citizen,Kalwa,19.19918,72.99319,none,1,2026-09-10 19:45:48,False,False
+REP-0105,Illegal dumping of organic waste noticed behind Mumbra market area.,twitter,Mumbra,19.17423,73.01869,organic waste,2,2026-09-19 00:28:30,True,True
+REP-0106,Continuous open burning and dumping of construction debris near Majiwada drain.,email,Majiwada,19.21607,72.98113,construction debris,2,2026-09-08 10:07:42,True,True
+REP-0107,Water pipeline leaking near Kopri junction since morning.,form,Kopri,19.17938,72.97761,none,1,2026-09-28 03:06:05,True,False
+REP-0108,Huge pile of organic waste dumped near Kopri station. Smelling horrible.,email,Kopri,19.17877,72.97922,organic waste,3,2026-09-08 17:45:53,False,True
+REP-0109,Continuous open burning and dumping of plastic waste near Diva drain.,email,Diva,19.18971,73.03922,plastic waste,2,2026-09-03 23:09:55,False,True
+REP-0110,Water pipeline leaking near Mumbra junction since morning.,email,Mumbra,19.17982,73.01625,none,1,2026-08-12 13:52:25,True,False
+REP-0111,Continuous open burning and dumping of organic waste near Wagle Estate drain.,email,Wagle Estate,19.19662,72.95378,organic waste,1,2026-08-19 14:11:16,True,True
+REP-0112,Potholes on the main flyover in Diva causing heavy traffic.,citizen,Diva,19.18612,73.0456,none,1,2026-08-26 01:28:40,False,False
+REP-0113,Severe heap of construction debris blocking footpaths in Kopri nagar.,twitter,Kopri,19.18689,72.97691,construction debris,2,2026-08-14 04:46:08,False,True
+REP-0114,Huge pile of medical waste dumped near Mumbra station. Smelling horrible.,citizen,Mumbra,19.17562,73.02097,medical waste,4,2026-06-26 02:54:00,False,True
+REP-0115,Continuous open burning and dumping of industrial waste near Kopri drain.,twitter,Kopri,19.17897,72.97971,industrial waste,3,2026-10-01 09:08:25,False,True
+REP-0116,Severe heap of industrial waste blocking footpaths in Vartak Nagar nagar.,form,Vartak Nagar,19.21137,72.96159,industrial waste,4,2026-07-19 03:50:43,False,True
+REP-0117,Water pipeline leaking near Mumbra junction since morning.,citizen,Mumbra,19.17231,73.02235,none,1,2026-09-16 17:36:33,False,False
+REP-0118,Bohot sara garbage aur e-waste fela hua hai near Mumbra bridge.,citizen,Mumbra,19.17303,73.01937,e-waste,1,2026-09-04 01:31:57,False,True
+REP-0119,Chemical & plastic waste openly dumped near school in Vartak Nagar.,twitter,Vartak Nagar,19.20979,72.95958,plastic waste,2,2026-08-19 00:41:53,False,True
+REP-0120,Huge pile of construction debris dumped near Vartak Nagar station. Smelling horrible.,form,Vartak Nagar,19.21316,72.95948,construction debris,4,2026-06-29 05:31:09,True,True
+REP-0121,Chemical & organic waste openly dumped near school in Naupada.,twitter,Naupada,19.19321,72.9686,organic waste,4,2026-08-12 23:17:55,False,True
+REP-0122,Bohot sara garbage aur medical waste fela hua hai near Kopri bridge.,citizen,Kopri,19.18609,72.97401,medical waste,3,2026-09-08 03:13:12,False,True
+REP-0123,Low water pressure in residential area of Wagle Estate.,citizen,Wagle Estate,19.19598,72.94822,none,1,2026-08-14 21:01:53,True,False
+REP-0124,Severe heap of household garbage blocking footpaths in Kalwa nagar.,form,Kalwa,19.19267,72.99435,household garbage,3,2026-09-25 02:27:03,False,True
+REP-0125,Illegal dumping of plastic waste noticed behind Wagle Estate market area.,form,Wagle Estate,19.19522,72.95048,plastic waste,1,2026-07-29 00:04:37,True,True
+REP-0126,Urgent action needed! Lots of e-waste accumulating in Wagle Estate.,citizen,Wagle Estate,19.20004,72.95027,e-waste,3,2026-09-01 06:15:26,True,True
+REP-0127,Urgent action needed! Lots of medical waste accumulating in Wagle Estate.,twitter,Wagle Estate,19.19948,72.94967,medical waste,3,2026-07-28 09:25:22,False,True
+REP-0128,Illegal dumping of construction debris noticed behind Kopri market area.,citizen,Kopri,19.17732,72.98212,construction debris,2,2026-07-22 00:52:51,False,True
+REP-0129,"Bus stop roof broken in Majiwada, please fix soon.",citizen,Majiwada,19.21848,72.98376,none,1,2026-08-07 09:20:22,False,False
+REP-0130,"Bus stop roof broken in Diva, please fix soon.",citizen,Diva,19.19268,73.04454,none,1,2026-08-08 01:54:58,True,False
+REP-0131,Severe heap of medical waste blocking footpaths in Vartak Nagar nagar.,citizen,Vartak Nagar,19.21084,72.96119,medical waste,5,2026-09-22 19:23:50,False,True
+REP-0132,Streetlights not working on main road in Mumbra.,email,Mumbra,19.17032,73.02386,none,1,2026-08-06 15:24:30,False,False
+REP-0133,Bohot sara garbage aur e-waste fela hua hai near Kalwa bridge.,citizen,Kalwa,19.19468,72.99524,e-waste,2,2026-06-12 08:57:31,False,True
+REP-0134,Low water pressure in residential area of Mumbra.,twitter,Mumbra,19.17378,73.01774,none,1,2026-09-11 07:07:49,False,False
+REP-0135,Huge pile of plastic waste dumped near Kopri station. Smelling horrible.,form,Kopri,19.18041,72.98181,plastic waste,2,2026-09-30 02:32:09,False,True
+REP-0136,Huge pile of industrial waste dumped near Wagle Estate station. Smelling horrible.,twitter,Wagle Estate,19.2008,72.95321,industrial waste,4,2026-09-29 14:29:43,False,True
+REP-0137,Illegal dumping of medical waste noticed behind Ghodbunder Road market area.,twitter,Ghodbunder Road,19.26106,72.96505,medical waste,5,2026-08-12 03:45:24,False,True
+REP-0138,Huge pile of plastic waste dumped near Wagle Estate station. Smelling horrible.,citizen,Wagle Estate,19.19364,72.94709,plastic waste,4,2026-06-19 14:55:01,False,True
+REP-0139,Illegal dumping of construction debris noticed behind Mumbra market area.,twitter,Mumbra,19.17515,73.01502,construction debris,3,2026-09-30 16:40:43,False,True
+REP-0140,People are throwing organic waste right on the side of Kopri road.,twitter,Kopri,19.17898,72.97428,organic waste,3,2026-07-03 13:23:23,False,True
+REP-0141,Bohot sara garbage aur medical waste fela hua hai near Kopri bridge.,citizen,Kopri,19.18287,72.97759,medical waste,4,2026-08-30 15:15:07,False,True
+REP-0142,Low water pressure in residential area of Majiwada.,form,Majiwada,19.22141,72.98479,none,1,2026-09-30 07:51:12,False,False
+REP-0143,People are throwing e-waste right on the side of Kopri road.,twitter,Kopri,19.18542,72.97725,e-waste,3,2026-09-11 08:43:34,True,True
+REP-0144,People are throwing medical waste right on the side of Kopri road.,twitter,Kopri,19.18442,72.97325,medical waste,5,2026-09-23 08:35:02,False,True
+REP-0145,Water pipeline leaking near Kopri junction since morning.,form,Kopri,19.18233,72.97521,none,1,2026-07-09 14:57:21,False,False
+REP-0146,Illegal dumping of household garbage noticed behind Kopri market area.,form,Kopri,19.18062,72.98195,household garbage,1,2026-08-28 10:00:59,False,True
+REP-0147,Low water pressure in residential area of Kolshet.,email,Kolshet,19.23374,72.98977,none,1,2026-09-23 15:07:26,True,False
+REP-0148,People are throwing industrial waste right on the side of Vartak Nagar road.,email,Vartak Nagar,19.21403,72.95908,industrial waste,3,2026-09-13 12:51:49,False,True
+REP-0149,Illegal dumping of industrial waste noticed behind Diva market area.,email,Diva,19.18967,73.04341,industrial waste,3,2026-08-19 18:38:11,True,True
+REP-0150,Severe heap of household garbage blocking footpaths in Naupada nagar.,twitter,Naupada,19.1935,72.97615,household garbage,4,2026-09-24 21:58:19,True,True
+REP-0151,"Bus stop roof broken in Kalwa, please fix soon.",citizen,Kalwa,19.19452,73.00175,none,1,2026-07-05 07:59:43,False,False
+REP-0152,Water pipeline leaking near Naupada junction since morning.,twitter,Naupada,19.19359,72.97329,none,1,2026-09-14 13:56:12,True,False
+REP-0153,Bohot sara garbage aur e-waste fela hua hai near Kolshet bridge.,email,Kolshet,19.23224,72.98908,e-waste,2,2026-08-07 04:22:17,False,True
+REP-0154,Urgent action needed! Lots of construction debris accumulating in Ghodbunder Road.,form,Ghodbunder Road,19.26818,72.96835,construction debris,1,2026-08-31 19:38:22,False,True
+REP-0155,People are throwing construction debris right on the side of Kolshet road.,twitter,Kolshet,19.22966,72.98333,construction debris,2,2026-09-15 00:53:26,False,True
+REP-0156,People are throwing household garbage right on the side of Wagle Estate road.,form,Wagle Estate,19.20167,72.94984,household garbage,1,2026-09-24 17:32:59,False,True
+REP-0157,Chemical & industrial waste openly dumped near school in Kopri.,citizen,Kopri,19.18104,72.97586,industrial waste,3,2026-09-19 08:25:34,False,True
+REP-0158,Continuous open burning and dumping of plastic waste near Ghodbunder Road drain.,citizen,Ghodbunder Road,19.26515,72.96548,plastic waste,4,2026-07-21 23:47:24,False,True
+REP-0159,Severe heap of plastic waste blocking footpaths in Kopri nagar.,form,Kopri,19.17967,72.97985,plastic waste,2,2026-07-23 22:07:37,False,True
+REP-0160,Huge pile of medical waste dumped near Kopri station. Smelling horrible.,form,Kopri,19.18029,72.97458,medical waste,5,2026-09-28 09:17:03,False,True
+REP-0161,Low water pressure in residential area of Kopri.,form,Kopri,19.18558,72.97782,none,1,2026-06-14 13:06:45,False,False
+REP-0162,Severe heap of construction debris blocking footpaths in Kopri nagar.,form,Kopri,19.17716,72.97427,construction debris,4,2026-08-23 10:11:08,False,True
+REP-0163,Bohot sara garbage aur industrial waste fela hua hai near Wagle Estate bridge.,email,Wagle Estate,19.19866,72.95496,industrial waste,4,2026-09-21 08:12:52,False,True
+REP-0164,Severe heap of household garbage blocking footpaths in Ghodbunder Road nagar.,email,Ghodbunder Road,19.26468,72.9604,household garbage,4,2026-07-10 13:03:52,False,True
+REP-0165,Urgent action needed! Lots of medical waste accumulating in Diva.,email,Diva,19.18631,73.03823,medical waste,5,2026-06-17 07:47:45,False,True
+REP-0166,Water pipeline leaking near Naupada junction since morning.,citizen,Naupada,19.18984,72.97507,none,1,2026-07-01 01:01:15,True,False
+REP-0167,Urgent action needed! Lots of plastic waste accumulating in Kopri.,email,Kopri,19.18141,72.97603,plastic waste,4,2026-09-21 05:49:50,True,True
+REP-0168,Bohot sara garbage aur construction debris fela hua hai near Ghodbunder Road bridge.,twitter,Ghodbunder Road,19.26469,72.96249,construction debris,2,2026-08-23 03:04:47,True,True
+REP-0169,Water pipeline leaking near Kalwa junction since morning.,twitter,Kalwa,19.19027,72.99853,none,1,2026-09-12 02:28:00,True,False
+REP-0170,Low water pressure in residential area of Kopri.,citizen,Kopri,19.18259,72.97487,none,1,2026-07-19 22:47:24,False,False
+REP-0171,"Bus stop roof broken in Naupada, please fix soon.",citizen,Naupada,19.1908,72.97002,none,1,2026-09-18 12:28:18,False,False
+REP-0172,Potholes on the main flyover in Kalwa causing heavy traffic.,citizen,Kalwa,19.19921,72.99597,none,1,2026-09-08 15:30:18,False,False
+REP-0173,Illegal dumping of medical waste noticed behind Kalwa market area.,email,Kalwa,19.19497,72.99728,medical waste,3,2026-09-22 21:50:27,False,True
+REP-0174,People are throwing industrial waste right on the side of Ghodbunder Road road.,form,Ghodbunder Road,19.26252,72.965,industrial waste,3,2026-07-20 09:09:55,False,True
+REP-0175,Streetlights not working on main road in Majiwada.,form,Majiwada,19.22197,72.98599,none,1,2026-06-26 14:50:06,False,False
+REP-0176,Continuous open burning and dumping of organic waste near Wagle Estate drain.,twitter,Wagle Estate,19.20253,72.9554,organic waste,4,2026-09-13 04:28:17,True,True
+REP-0177,Continuous open burning and dumping of organic waste near Kolshet drain.,twitter,Kolshet,19.23018,72.99205,organic waste,1,2026-07-26 22:21:06,False,True
+REP-0178,Chemical & plastic waste openly dumped near school in Kolshet.,email,Kolshet,19.22885,72.98884,plastic waste,3,2026-07-24 06:26:00,False,True
+REP-0179,Low water pressure in residential area of Mumbra.,twitter,Mumbra,19.17094,73.01691,none,1,2026-09-29 01:04:20,True,False
+REP-0180,Chemical & household garbage openly dumped near school in Mumbra.,form,Mumbra,19.17613,73.02353,household garbage,4,2026-09-13 08:08:59,False,True
+REP-0181,Low water pressure in residential area of Vartak Nagar.,form,Vartak Nagar,19.21134,72.96477,none,1,2026-08-20 05:37:42,False,False
+REP-0182,"Bus stop roof broken in Kopri, please fix soon.",email,Kopri,19.18574,72.98205,none,1,2026-08-05 09:44:15,True,False
+REP-0183,People are throwing industrial waste right on the side of Kopri road.,email,Kopri,19.18634,72.98148,industrial waste,5,2026-08-06 20:42:12,False,True
+REP-0184,Bohot sara garbage aur medical waste fela hua hai near Diva bridge.,citizen,Diva,19.18514,73.04115,medical waste,5,2026-07-13 11:59:21,True,True
+REP-0185,People are throwing household garbage right on the side of Ghodbunder Road road.,citizen,Ghodbunder Road,19.26227,72.96181,household garbage,3,2026-08-12 23:43:39,False,True
+REP-0186,Urgent action needed! Lots of construction debris accumulating in Wagle Estate.,twitter,Wagle Estate,19.19556,72.95007,construction debris,1,2026-09-13 20:06:41,False,True
+REP-0187,Streetlights not working on main road in Kopri.,citizen,Kopri,19.18271,72.97913,none,1,2026-07-31 07:43:59,True,False
+REP-0188,Severe heap of organic waste blocking footpaths in Diva nagar.,email,Diva,19.19241,73.04199,organic waste,3,2026-09-15 22:42:53,True,True
+REP-0189,People are throwing industrial waste right on the side of Vartak Nagar road.,email,Vartak Nagar,19.20546,72.96403,industrial waste,5,2026-09-20 22:57:47,False,True
+REP-0190,Water pipeline leaking near Wagle Estate junction since morning.,citizen,Wagle Estate,19.19788,72.95334,none,1,2026-08-13 19:44:59,True,False
+REP-0191,Continuous open burning and dumping of household garbage near Kopri drain.,citizen,Kopri,19.17741,72.98063,household garbage,3,2026-08-11 09:21:23,False,True
+REP-0192,Severe heap of plastic waste blocking footpaths in Ghodbunder Road nagar.,citizen,Ghodbunder Road,19.26429,72.96734,plastic waste,1,2026-09-02 09:21:58,False,True
+REP-0193,Low water pressure in residential area of Vartak Nagar.,form,Vartak Nagar,19.20931,72.96625,none,1,2026-09-05 02:18:56,False,False
+REP-0194,Urgent action needed! Lots of household garbage accumulating in Wagle Estate.,email,Wagle Estate,19.19874,72.95034,household garbage,2,2026-09-28 12:52:46,False,True
+REP-0195,Chemical & construction debris openly dumped near school in Kalwa.,citizen,Kalwa,19.19665,73.00019,construction debris,2,2026-07-09 02:51:51,False,True
+REP-0196,Severe heap of medical waste blocking footpaths in Mumbra nagar.,twitter,Mumbra,19.17099,73.02014,medical waste,4,2026-09-21 10:58:55,False,True
+REP-0197,Continuous open burning and dumping of construction debris near Kopri drain.,citizen,Kopri,19.17827,72.97892,construction debris,4,2026-06-22 00:05:03,True,True
+REP-0198,Potholes on the main flyover in Kopri causing heavy traffic.,email,Kopri,19.17843,72.97537,none,1,2026-07-28 20:26:22,False,False
+REP-0199,Low water pressure in residential area of Kalwa.,twitter,Kalwa,19.19151,72.99688,none,1,2026-07-23 17:07:34,True,False
+REP-0200,Potholes on the main flyover in Ghodbunder Road causing heavy traffic.,email,Ghodbunder Road,19.26267,72.96215,none,1,2026-08-07 00:01:29,True,False
+REP-0201,Chemical & plastic waste openly dumped near school in Mumbra.,email,Mumbra,19.17425,73.02439,plastic waste,1,2026-08-10 11:21:09,False,True
+REP-0202,Potholes on the main flyover in Naupada causing heavy traffic.,citizen,Naupada,19.19436,72.97244,none,1,2026-07-09 10:37:43,True,False
+REP-0203,Water pipeline leaking near Majiwada junction since morning.,citizen,Majiwada,19.21352,72.98127,none,1,2026-08-18 21:38:35,False,False
+REP-0204,Continuous open burning and dumping of e-waste near Kalwa drain.,citizen,Kalwa,19.19802,73.00044,e-waste,2,2026-08-15 06:17:19,False,True
+REP-0205,People are throwing medical waste right on the side of Ghodbunder Road road.,form,Ghodbunder Road,19.26811,72.96224,medical waste,5,2026-06-17 05:31:38,True,True
+REP-0206,Urgent action needed! Lots of medical waste accumulating in Majiwada.,citizen,Majiwada,19.21992,72.98625,medical waste,4,2026-08-18 15:01:37,False,True
+REP-0207,Urgent action needed! Lots of e-waste accumulating in Kalwa.,citizen,Kalwa,19.19988,72.9998,e-waste,4,2026-09-30 09:11:30,True,True
+REP-0208,Streetlights not working on main road in Mumbra.,citizen,Mumbra,19.17114,73.0238,none,1,2026-07-27 03:52:59,True,False
+REP-0209,Illegal dumping of plastic waste noticed behind Ghodbunder Road market area.,form,Ghodbunder Road,19.2688,72.96354,plastic waste,3,2026-09-25 15:19:16,True,True
+REP-0210,Chemical & construction debris openly dumped near school in Kolshet.,citizen,Kolshet,19.2288,72.98997,construction debris,1,2026-06-24 05:13:58,True,True
+REP-0211,Illegal dumping of medical waste noticed behind Kopri market area.,email,Kopri,19.18637,72.98134,medical waste,3,2026-06-10 11:26:27,False,True
+REP-0212,People are throwing organic waste right on the side of Naupada road.,email,Naupada,19.19335,72.97691,organic waste,4,2026-08-21 05:26:05,True,True
+REP-0213,Bohot sara garbage aur medical waste fela hua hai near Ghodbunder Road bridge.,citizen,Ghodbunder Road,19.26807,72.96034,medical waste,5,2026-08-08 19:14:07,False,True
+REP-0214,Streetlights not working on main road in Kopri.,form,Kopri,19.1864,72.98122,none,1,2026-08-07 23:09:36,True,False
+REP-0215,Urgent action needed! Lots of household garbage accumulating in Wagle Estate.,email,Wagle Estate,19.19688,72.94799,household garbage,4,2026-07-23 03:04:46,False,True
+REP-0216,Illegal dumping of construction debris noticed behind Majiwada market area.,citizen,Majiwada,19.21619,72.98436,construction debris,3,2026-08-29 12:30:09,False,True
+REP-0217,Potholes on the main flyover in Naupada causing heavy traffic.,twitter,Naupada,19.19067,72.96912,none,1,2026-09-09 15:18:15,False,False
+REP-0218,Severe heap of organic waste blocking footpaths in Ghodbunder Road nagar.,citizen,Ghodbunder Road,19.26003,72.96447,organic waste,1,2026-09-18 12:48:07,False,True
+REP-0219,People are throwing medical waste right on the side of Diva road.,form,Diva,19.19282,73.04339,medical waste,3,2026-09-05 23:02:23,True,True
+REP-0220,Huge pile of e-waste dumped near Naupada station. Smelling horrible.,email,Naupada,19.19136,72.97157,e-waste,3,2026-09-19 17:49:24,True,True
+REP-0221,Continuous open burning and dumping of household garbage near Wagle Estate drain.,form,Wagle Estate,19.20206,72.94724,household garbage,3,2026-07-02 11:21:07,False,True
+REP-0222,"Bus stop roof broken in Kopri, please fix soon.",email,Kopri,19.18693,72.97908,none,1,2026-09-17 03:51:12,False,False
+REP-0223,Urgent action needed! Lots of industrial waste accumulating in Kalwa.,email,Kalwa,19.19321,72.99471,industrial waste,5,2026-08-13 05:53:55,False,True
+REP-0224,Potholes on the main flyover in Majiwada causing heavy traffic.,form,Majiwada,19.21742,72.98393,none,1,2026-08-08 12:50:52,False,False
+REP-0225,People are throwing industrial waste right on the side of Kolshet road.,twitter,Kolshet,19.2321,72.98494,industrial waste,4,2026-08-08 12:53:51,False,True
+REP-0226,Huge pile of industrial waste dumped near Ghodbunder Road station. Smelling horrible.,form,Ghodbunder Road,19.26134,72.96873,industrial waste,5,2026-09-21 23:17:02,False,True
+REP-0227,Bohot sara garbage aur plastic waste fela hua hai near Majiwada bridge.,email,Majiwada,19.21434,72.98589,plastic waste,1,2026-08-28 04:40:57,False,True
+REP-0228,Bohot sara garbage aur household garbage fela hua hai near Vartak Nagar bridge.,form,Vartak Nagar,19.20591,72.96666,household garbage,4,2026-06-20 20:18:44,True,True
+REP-0229,Water pipeline leaking near Kopri junction since morning.,citizen,Kopri,19.17879,72.97379,none,1,2026-08-19 04:20:13,True,False
+REP-0230,Urgent action needed! Lots of household garbage accumulating in Kolshet.,citizen,Kolshet,19.23528,72.98761,household garbage,3,2026-08-01 11:15:44,False,True
+REP-0231,Chemical & household garbage openly dumped near school in Majiwada.,citizen,Majiwada,19.21477,72.9843,household garbage,3,2026-07-24 21:47:10,False,True
+REP-0232,Low water pressure in residential area of Ghodbunder Road.,form,Ghodbunder Road,19.26287,72.96555,none,1,2026-08-05 07:42:38,False,False
+REP-0233,Illegal dumping of construction debris noticed behind Naupada market area.,twitter,Naupada,19.19595,72.97525,construction debris,3,2026-09-03 20:06:58,True,True
+REP-0234,Low water pressure in residential area of Kopri.,email,Kopri,19.18425,72.97482,none,1,2026-06-11 23:51:27,True,False
+REP-0235,Chemical & construction debris openly dumped near school in Naupada.,email,Naupada,19.19167,72.97666,construction debris,4,2026-09-13 23:02:14,False,True
+REP-0236,People are throwing organic waste right on the side of Mumbra road.,twitter,Mumbra,19.17306,73.02031,organic waste,2,2026-09-12 03:54:55,False,True
+REP-0237,"Bus stop roof broken in Mumbra, please fix soon.",form,Mumbra,19.17102,73.02339,none,1,2026-09-21 06:08:12,False,False
+REP-0238,Huge pile of construction debris dumped near Mumbra station. Smelling horrible.,citizen,Mumbra,19.17539,73.01502,construction debris,3,2026-08-09 03:05:48,False,True
+REP-0239,Continuous open burning and dumping of industrial waste near Diva drain.,form,Diva,19.18751,73.0468,industrial waste,5,2026-08-23 10:51:45,False,True
+REP-0240,Severe heap of household garbage blocking footpaths in Kalwa nagar.,citizen,Kalwa,19.19231,72.99352,household garbage,4,2026-06-16 03:24:54,False,True
+REP-0241,Urgent action needed! Lots of industrial waste accumulating in Ghodbunder Road.,citizen,Ghodbunder Road,19.26956,72.96519,industrial waste,5,2026-07-21 02:18:29,True,True
+REP-0242,Continuous open burning and dumping of construction debris near Mumbra drain.,form,Mumbra,19.17141,73.02177,construction debris,3,2026-06-16 15:57:50,False,True
+REP-0243,Continuous open burning and dumping of organic waste near Kopri drain.,twitter,Kopri,19.18091,72.97926,organic waste,1,2026-09-16 17:52:28,False,True
+REP-0244,Illegal dumping of medical waste noticed behind Naupada market area.,citizen,Naupada,19.18759,72.97067,medical waste,5,2026-09-23 17:23:11,False,True
+REP-0245,Illegal dumping of e-waste noticed behind Wagle Estate market area.,email,Wagle Estate,19.20188,72.94954,e-waste,2,2026-08-11 04:31:52,False,True
+REP-0246,Urgent action needed! Lots of organic waste accumulating in Wagle Estate.,form,Wagle Estate,19.19904,72.94876,organic waste,4,2026-09-29 12:44:57,False,True
+REP-0247,People are throwing organic waste right on the side of Kalwa road.,form,Kalwa,19.19568,72.99873,organic waste,2,2026-09-05 18:48:36,False,True
+REP-0248,Low water pressure in residential area of Wagle Estate.,twitter,Wagle Estate,19.19596,72.95165,none,1,2026-09-20 14:32:39,False,False
+REP-0249,Huge pile of industrial waste dumped near Mumbra station. Smelling horrible.,email,Mumbra,19.17049,73.01707,industrial waste,4,2026-09-16 10:10:02,False,True
+REP-0250,Severe heap of household garbage blocking footpaths in Kolshet nagar.,email,Kolshet,19.23073,72.98794,household garbage,1,2026-07-17 23:31:23,True,True
+REP-0251,Continuous open burning and dumping of medical waste near Naupada drain.,twitter,Naupada,19.1916,72.97021,medical waste,5,2026-07-30 07:01:59,False,True
+REP-0252,People are throwing household garbage right on the side of Mumbra road.,twitter,Mumbra,19.17832,73.02411,household garbage,4,2026-08-27 23:32:45,False,True
+REP-0253,Chemical & construction debris openly dumped near school in Kopri.,citizen,Kopri,19.18665,72.97669,construction debris,4,2026-07-28 00:15:05,True,True
+REP-0254,Bohot sara garbage aur plastic waste fela hua hai near Kalwa bridge.,twitter,Kalwa,19.19035,72.99708,plastic waste,1,2026-07-22 06:38:53,True,True
+REP-0255,Urgent action needed! Lots of household garbage accumulating in Wagle Estate.,email,Wagle Estate,19.1949,72.95626,household garbage,2,2026-09-16 22:20:42,False,True
+REP-0256,Potholes on the main flyover in Mumbra causing heavy traffic.,citizen,Mumbra,19.17156,73.01928,none,1,2026-09-14 17:27:53,True,False
+REP-0257,Urgent action needed! Lots of industrial waste accumulating in Mumbra.,email,Mumbra,19.17048,73.01896,industrial waste,3,2026-09-14 14:47:55,False,True
+REP-0258,Huge pile of industrial waste dumped near Wagle Estate station. Smelling horrible.,form,Wagle Estate,19.20068,72.95188,industrial waste,3,2026-08-06 10:57:28,False,True
+REP-0259,People are throwing e-waste right on the side of Ghodbunder Road road.,form,Ghodbunder Road,19.265,72.96607,e-waste,1,2026-09-17 18:52:21,False,True
+REP-0260,Huge pile of plastic waste dumped near Wagle Estate station. Smelling horrible.,citizen,Wagle Estate,19.20273,72.95362,plastic waste,4,2026-08-05 08:20:42,False,True
+REP-0261,People are throwing construction debris right on the side of Mumbra road.,citizen,Mumbra,19.17681,73.02287,construction debris,1,2026-07-27 21:07:11,True,True
+REP-0262,Continuous open burning and dumping of e-waste near Diva drain.,email,Diva,19.1863,73.04288,e-waste,4,2026-09-30 02:03:46,False,True
+REP-0263,Continuous open burning and dumping of organic waste near Kopri drain.,twitter,Kopri,19.18412,72.97897,organic waste,2,2026-08-22 02:44:38,False,True
+REP-0264,Chemical & e-waste openly dumped near school in Ghodbunder Road.,twitter,Ghodbunder Road,19.26282,72.96754,e-waste,2,2026-09-16 00:03:42,True,True
+REP-0265,Illegal dumping of e-waste noticed behind Ghodbunder Road market area.,form,Ghodbunder Road,19.26944,72.96563,e-waste,1,2026-08-30 10:41:37,False,True
+REP-0266,Bohot sara garbage aur industrial waste fela hua hai near Ghodbunder Road bridge.,citizen,Ghodbunder Road,19.26436,72.969,industrial waste,4,2026-08-20 08:38:00,False,True
+REP-0267,Continuous open burning and dumping of medical waste near Ghodbunder Road drain.,citizen,Ghodbunder Road,19.26662,72.96141,medical waste,5,2026-09-17 03:41:16,False,True
+REP-0268,Illegal dumping of medical waste noticed behind Kopri market area.,email,Kopri,19.17865,72.97428,medical waste,4,2026-09-08 06:17:31,False,True
+REP-0269,Huge pile of e-waste dumped near Wagle Estate station. Smelling horrible.,email,Wagle Estate,19.20145,72.95182,e-waste,1,2026-09-26 17:07:35,False,True
+REP-0270,Severe heap of industrial waste blocking footpaths in Kolshet nagar.,email,Kolshet,19.23584,72.98336,industrial waste,5,2026-07-01 02:40:55,True,True
+REP-0271,Illegal dumping of household garbage noticed behind Kopri market area.,form,Kopri,19.18671,72.97855,household garbage,2,2026-08-23 19:51:11,False,True
+REP-0272,Huge pile of industrial waste dumped near Mumbra station. Smelling horrible.,form,Mumbra,19.1728,73.02293,industrial waste,4,2026-08-09 12:20:05,False,True
+REP-0273,Bohot sara garbage aur e-waste fela hua hai near Ghodbunder Road bridge.,email,Ghodbunder Road,19.26174,72.9698,e-waste,3,2026-06-18 03:43:29,False,True
+REP-0274,People are throwing e-waste right on the side of Ghodbunder Road road.,twitter,Ghodbunder Road,19.26677,72.9621,e-waste,2,2026-09-06 15:51:12,False,True
+REP-0275,Severe heap of household garbage blocking footpaths in Kolshet nagar.,citizen,Kolshet,19.22932,72.9895,household garbage,3,2026-08-01 14:56:37,False,True
+REP-0276,Chemical & construction debris openly dumped near school in Ghodbunder Road.,citizen,Ghodbunder Road,19.26803,72.96372,construction debris,4,2026-08-19 14:24:54,False,True
+REP-0277,"Bus stop roof broken in Kalwa, please fix soon.",citizen,Kalwa,19.19314,73.00177,none,1,2026-07-07 11:28:16,True,False
+REP-0278,Urgent action needed! Lots of industrial waste accumulating in Kalwa.,twitter,Kalwa,19.19867,73.00037,industrial waste,4,2026-08-30 13:12:41,False,True
+REP-0279,Illegal dumping of household garbage noticed behind Kolshet market area.,form,Kolshet,19.23499,72.99006,household garbage,3,2026-07-21 23:58:11,True,True
+REP-0280,Chemical & e-waste openly dumped near school in Vartak Nagar.,email,Vartak Nagar,19.20894,72.96664,e-waste,4,2026-09-24 05:07:50,False,True
+REP-0281,"Bus stop roof broken in Wagle Estate, please fix soon.",twitter,Wagle Estate,19.19586,72.95424,none,1,2026-08-23 18:21:51,False,False
+REP-0282,Continuous open burning and dumping of construction debris near Kopri drain.,email,Kopri,19.18358,72.978,construction debris,3,2026-09-16 10:48:22,False,True
+REP-0283,Severe heap of construction debris blocking footpaths in Naupada nagar.,email,Naupada,19.19657,72.97053,construction debris,3,2026-09-15 23:41:38,False,True
+REP-0284,Bohot sara garbage aur organic waste fela hua hai near Mumbra bridge.,email,Mumbra,19.17864,73.01907,organic waste,4,2026-06-24 22:38:22,False,True
+REP-0285,Continuous open burning and dumping of industrial waste near Naupada drain.,email,Naupada,19.19226,72.9719,industrial waste,4,2026-09-09 05:09:22,False,True
+REP-0286,Low water pressure in residential area of Kalwa.,twitter,Kalwa,19.19142,72.99679,none,1,2026-08-17 07:33:39,True,False
+REP-0287,Chemical & medical waste openly dumped near school in Naupada.,email,Naupada,19.19488,72.97364,medical waste,3,2026-06-08 05:04:54,True,True
+REP-0288,"Bus stop roof broken in Kopri, please fix soon.",twitter,Kopri,19.18399,72.97619,none,1,2026-07-27 12:36:45,True,False
+REP-0289,"Bus stop roof broken in Diva, please fix soon.",citizen,Diva,19.19296,73.0373,none,1,2026-09-10 16:28:08,True,False
+REP-0290,Illegal dumping of plastic waste noticed behind Naupada market area.,twitter,Naupada,19.18953,72.96726,plastic waste,2,2026-08-16 22:17:39,False,True
+REP-0291,Streetlights not working on main road in Kolshet.,email,Kolshet,19.23477,72.98324,none,1,2026-06-28 13:45:19,False,False
+REP-0292,Continuous open burning and dumping of medical waste near Majiwada drain.,twitter,Majiwada,19.21751,72.98603,medical waste,4,2026-08-07 05:41:01,False,True
+REP-0293,"Bus stop roof broken in Vartak Nagar, please fix soon.",email,Vartak Nagar,19.21006,72.96248,none,1,2026-07-30 15:20:19,False,False
+REP-0294,Water pipeline leaking near Majiwada junction since morning.,twitter,Majiwada,19.22298,72.98299,none,1,2026-06-25 14:58:06,False,False
+REP-0295,Urgent action needed! Lots of construction debris accumulating in Kalwa.,form,Kalwa,19.19039,73.00015,construction debris,1,2026-08-13 02:37:44,False,True
+REP-0296,Chemical & household garbage openly dumped near school in Mumbra.,twitter,Mumbra,19.17108,73.01646,household garbage,3,2026-09-13 15:29:40,True,True
+REP-0297,Bohot sara garbage aur household garbage fela hua hai near Naupada bridge.,form,Naupada,19.18977,72.9698,household garbage,1,2026-09-09 22:12:18,False,True
+REP-0298,"Bus stop roof broken in Kopri, please fix soon.",form,Kopri,19.18416,72.98212,none,1,2026-08-17 06:24:27,True,False
+REP-0299,Bohot sara garbage aur organic waste fela hua hai near Mumbra bridge.,email,Mumbra,19.17502,73.01744,organic waste,1,2026-08-30 07:56:14,True,True
+REP-0300,Severe heap of industrial waste blocking footpaths in Kolshet nagar.,email,Kolshet,19.2292,72.98458,industrial waste,4,2026-08-05 13:04:15,True,True
+REP-0301,Urgent action needed! Lots of household garbage accumulating in Wagle Estate.,email,Wagle Estate,19.19833,72.94746,household garbage,2,2026-09-14 05:28:38,True,True
+REP-0302,People are throwing organic waste right on the side of Wagle Estate road.,twitter,Wagle Estate,19.19392,72.95523,organic waste,1,2026-09-24 04:03:20,False,True
+REP-0303,People are throwing e-waste right on the side of Kalwa road.,twitter,Kalwa,19.1993,73.00212,e-waste,1,2026-08-16 19:28:35,False,True
+REP-0304,Severe heap of organic waste blocking footpaths in Kopri nagar.,twitter,Kopri,19.18506,72.9742,organic waste,4,2026-09-24 11:24:22,False,True
+REP-0305,Severe heap of e-waste blocking footpaths in Diva nagar.,citizen,Diva,19.18707,73.04622,e-waste,3,2026-09-14 16:06:09,False,True
+REP-0306,Chemical & e-waste openly dumped near school in Mumbra.,citizen,Mumbra,19.17787,73.02356,e-waste,3,2026-08-05 22:19:33,False,True
+REP-0307,Huge pile of construction debris dumped near Wagle Estate station. Smelling horrible.,citizen,Wagle Estate,19.19963,72.95171,construction debris,1,2026-09-28 20:13:41,True,True
+REP-0308,Severe heap of construction debris blocking footpaths in Kopri nagar.,form,Kopri,19.17719,72.97326,construction debris,2,2026-09-29 10:43:39,True,True
+REP-0309,Water pipeline leaking near Diva junction since morning.,twitter,Diva,19.18508,73.04402,none,1,2026-09-17 22:33:01,False,False
+REP-0310,Illegal dumping of industrial waste noticed behind Wagle Estate market area.,email,Wagle Estate,19.1936,72.9496,industrial waste,4,2026-09-27 02:42:05,False,True
+REP-0311,Illegal dumping of medical waste noticed behind Majiwada market area.,citizen,Majiwada,19.21583,72.97746,medical waste,3,2026-09-05 21:18:23,False,True
+REP-0312,Illegal dumping of industrial waste noticed behind Ghodbunder Road market area.,twitter,Ghodbunder Road,19.2672,72.96253,industrial waste,5,2026-07-04 06:57:36,True,True
+REP-0313,Streetlights not working on main road in Vartak Nagar.,email,Vartak Nagar,19.21271,72.9575,none,1,2026-09-07 00:38:54,False,False
+REP-0314,Chemical & e-waste openly dumped near school in Naupada.,form,Naupada,19.18823,72.97603,e-waste,4,2026-06-15 02:02:39,False,True
+REP-0315,Continuous open burning and dumping of household garbage near Mumbra drain.,citizen,Mumbra,19.17796,73.01847,household garbage,3,2026-08-20 19:34:55,True,True
+REP-0316,Illegal dumping of industrial waste noticed behind Mumbra market area.,twitter,Mumbra,19.17481,73.01549,industrial waste,5,2026-09-15 06:25:43,False,True
+REP-0317,Low water pressure in residential area of Kolshet.,email,Kolshet,19.23439,72.99222,none,1,2026-08-10 01:15:15,True,False
+REP-0318,Severe heap of e-waste blocking footpaths in Kalwa nagar.,form,Kalwa,19.19156,72.99958,e-waste,1,2026-09-02 16:38:11,False,True
+REP-0319,Huge pile of e-waste dumped near Mumbra station. Smelling horrible.,email,Mumbra,19.17724,73.02493,e-waste,1,2026-09-26 06:33:33,True,True
+REP-0320,Chemical & industrial waste openly dumped near school in Kopri.,twitter,Kopri,19.18318,72.97393,industrial waste,5,2026-09-10 02:03:43,False,True
+REP-0321,People are throwing plastic waste right on the side of Kolshet road.,citizen,Kolshet,19.22789,72.98977,plastic waste,4,2026-08-03 18:10:25,False,True
+REP-0322,Bohot sara garbage aur e-waste fela hua hai near Kopri bridge.,form,Kopri,19.18554,72.97988,e-waste,2,2026-09-20 12:20:22,False,True
+REP-0323,Illegal dumping of industrial waste noticed behind Ghodbunder Road market area.,form,Ghodbunder Road,19.26229,72.9609,industrial waste,4,2026-09-27 08:26:37,False,True
+REP-0324,Chemical & construction debris openly dumped near school in Majiwada.,email,Majiwada,19.21934,72.98306,construction debris,1,2026-09-07 01:18:27,False,True
+REP-0325,Low water pressure in residential area of Ghodbunder Road.,form,Ghodbunder Road,19.26031,72.9611,none,1,2026-09-20 23:22:54,True,False
+REP-0326,Continuous open burning and dumping of e-waste near Wagle Estate drain.,email,Wagle Estate,19.19952,72.95273,e-waste,3,2026-07-09 23:01:32,False,True
+REP-0327,Urgent action needed! Lots of household garbage accumulating in Diva.,email,Diva,19.186,73.04501,household garbage,1,2026-09-26 09:07:28,False,True
+REP-0328,Urgent action needed! Lots of household garbage accumulating in Wagle Estate.,form,Wagle Estate,19.19866,72.94978,household garbage,1,2026-06-19 04:05:03,False,True
+REP-0329,Bohot sara garbage aur household garbage fela hua hai near Majiwada bridge.,email,Majiwada,19.21864,72.98279,household garbage,4,2026-09-13 23:14:29,False,True
+REP-0330,Huge pile of organic waste dumped near Wagle Estate station. Smelling horrible.,email,Wagle Estate,19.19722,72.94737,organic waste,4,2026-07-29 10:13:55,True,True
+REP-0331,Continuous open burning and dumping of organic waste near Kopri drain.,twitter,Kopri,19.18571,72.97997,organic waste,4,2026-07-06 07:39:00,True,True
+REP-0332,Illegal dumping of plastic waste noticed behind Kalwa market area.,citizen,Kalwa,19.19403,73.0009,plastic waste,1,2026-07-31 01:04:32,True,True
+REP-0333,Huge pile of medical waste dumped near Wagle Estate station. Smelling horrible.,twitter,Wagle Estate,19.19736,72.95441,medical waste,3,2026-09-17 17:49:07,False,True
+REP-0334,Chemical & e-waste openly dumped near school in Mumbra.,citizen,Mumbra,19.17389,73.0152,e-waste,3,2026-09-07 09:13:22,False,True
+REP-0335,Severe heap of e-waste blocking footpaths in Naupada nagar.,form,Naupada,19.18758,72.97289,e-waste,3,2026-07-24 17:00:33,False,True
+REP-0336,Continuous open burning and dumping of construction debris near Kolshet drain.,citizen,Kolshet,19.22803,72.98889,construction debris,3,2026-09-07 22:36:41,False,True
+REP-0337,Bohot sara garbage aur household garbage fela hua hai near Kopri bridge.,citizen,Kopri,19.18683,72.97334,household garbage,4,2026-10-01 11:24:45,True,True
+REP-0338,Streetlights not working on main road in Kolshet.,email,Kolshet,19.23675,72.9846,none,1,2026-07-19 22:06:45,False,False
+REP-0339,Illegal dumping of plastic waste noticed behind Kopri market area.,email,Kopri,19.1839,72.97322,plastic waste,1,2026-06-16 22:05:02,False,True
+REP-0340,Illegal dumping of industrial waste noticed behind Majiwada market area.,email,Majiwada,19.22296,72.98699,industrial waste,3,2026-09-25 09:24:00,False,True
+REP-0341,Huge pile of construction debris dumped near Kolshet station. Smelling horrible.,email,Kolshet,19.22838,72.98685,construction debris,4,2026-08-06 16:03:55,False,True
+REP-0342,Chemical & medical waste openly dumped near school in Ghodbunder Road.,twitter,Ghodbunder Road,19.26122,72.9631,medical waste,5,2026-06-18 02:29:47,False,True
+REP-0343,People are throwing industrial waste right on the side of Ghodbunder Road road.,citizen,Ghodbunder Road,19.26314,72.96328,industrial waste,4,2026-07-05 07:19:46,True,True
+REP-0344,Bohot sara garbage aur e-waste fela hua hai near Kopri bridge.,citizen,Kopri,19.17741,72.97874,e-waste,3,2026-07-19 05:30:54,True,True
+REP-0345,Water pipeline leaking near Vartak Nagar junction since morning.,citizen,Vartak Nagar,19.21246,72.96026,none,1,2026-09-26 23:35:45,True,False
+REP-0346,Urgent action needed! Lots of construction debris accumulating in Naupada.,twitter,Naupada,19.18766,72.97213,construction debris,4,2026-09-21 18:49:21,True,True
+REP-0347,Bohot sara garbage aur plastic waste fela hua hai near Kopri bridge.,form,Kopri,19.18695,72.97688,plastic waste,4,2026-08-18 15:07:41,False,True
+REP-0348,"Bus stop roof broken in Vartak Nagar, please fix soon.",twitter,Vartak Nagar,19.21013,72.96204,none,1,2026-08-14 22:21:54,False,False
+REP-0349,Huge pile of construction debris dumped near Kopri station. Smelling horrible.,form,Kopri,19.18336,72.97871,construction debris,4,2026-07-16 02:20:58,False,True
+REP-0350,Illegal dumping of household garbage noticed behind Vartak Nagar market area.,email,Vartak Nagar,19.21471,72.96611,household garbage,4,2026-09-20 05:57:48,False,True
+REP-0351,"Bus stop roof broken in Kopri, please fix soon.",twitter,Kopri,19.17947,72.98271,none,1,2026-08-01 13:19:56,False,False
+REP-0352,Urgent action needed! Lots of medical waste accumulating in Kalwa.,citizen,Kalwa,19.199,73.00139,medical waste,3,2026-07-27 16:30:13,False,True
+REP-0353,Urgent action needed! Lots of plastic waste accumulating in Ghodbunder Road.,twitter,Ghodbunder Road,19.26067,72.96699,plastic waste,3,2026-09-25 09:36:25,True,True
+REP-0354,Bohot sara garbage aur medical waste fela hua hai near Mumbra bridge.,citizen,Mumbra,19.17762,73.01684,medical waste,5,2026-09-21 08:18:35,False,True
+REP-0355,Urgent action needed! Lots of medical waste accumulating in Wagle Estate.,email,Wagle Estate,19.19708,72.95669,medical waste,5,2026-08-14 04:45:04,True,True
+REP-0356,Bohot sara garbage aur e-waste fela hua hai near Wagle Estate bridge.,citizen,Wagle Estate,19.19886,72.95258,e-waste,4,2026-09-01 19:08:03,False,True
+REP-0357,Bohot sara garbage aur plastic waste fela hua hai near Naupada bridge.,twitter,Naupada,19.18826,72.96987,plastic waste,1,2026-07-16 01:27:24,False,True
+REP-0358,Bohot sara garbage aur organic waste fela hua hai near Naupada bridge.,form,Naupada,19.1931,72.97125,organic waste,2,2026-08-21 04:16:52,False,True
+REP-0359,Chemical & organic waste openly dumped near school in Naupada.,email,Naupada,19.19499,72.97226,organic waste,2,2026-09-06 06:18:09,True,True
+REP-0360,Illegal dumping of industrial waste noticed behind Kalwa market area.,citizen,Kalwa,19.19772,72.99302,industrial waste,4,2026-06-28 02:23:51,False,True
+REP-0361,Severe heap of construction debris blocking footpaths in Wagle Estate nagar.,citizen,Wagle Estate,19.19565,72.95425,construction debris,4,2026-08-09 09:08:21,False,True
+REP-0362,Chemical & construction debris openly dumped near school in Majiwada.,email,Majiwada,19.21984,72.98133,construction debris,1,2026-08-07 13:31:11,False,True
+REP-0363,Bohot sara garbage aur plastic waste fela hua hai near Kopri bridge.,citizen,Kopri,19.18356,72.97375,plastic waste,1,2026-09-29 01:28:43,False,True
+REP-0364,Potholes on the main flyover in Ghodbunder Road causing heavy traffic.,citizen,Ghodbunder Road,19.26572,72.96369,none,1,2026-09-08 20:18:13,True,False
+REP-0365,Severe heap of construction debris blocking footpaths in Ghodbunder Road nagar.,form,Ghodbunder Road,19.26209,72.96058,construction debris,1,2026-09-30 21:37:27,False,True
+REP-0366,Continuous open burning and dumping of household garbage near Kalwa drain.,form,Kalwa,19.19824,73.00245,household garbage,4,2026-09-26 08:10:45,True,True
+REP-0367,Water pipeline leaking near Mumbra junction since morning.,twitter,Mumbra,19.17015,73.0181,none,1,2026-09-19 13:02:30,False,False
+REP-0368,Continuous open burning and dumping of e-waste near Mumbra drain.,form,Mumbra,19.17316,73.01819,e-waste,4,2026-08-09 19:55:05,False,True
+REP-0369,Urgent action needed! Lots of organic waste accumulating in Mumbra.,email,Mumbra,19.17326,73.01956,organic waste,2,2026-08-16 02:02:32,False,True
+REP-0370,Huge pile of household garbage dumped near Mumbra station. Smelling horrible.,form,Mumbra,19.17609,73.02305,household garbage,3,2026-09-03 07:52:15,False,True
+REP-0371,Severe heap of organic waste blocking footpaths in Vartak Nagar nagar.,email,Vartak Nagar,19.20898,72.96358,organic waste,2,2026-08-12 11:04:41,False,True
+REP-0372,Low water pressure in residential area of Vartak Nagar.,email,Vartak Nagar,19.20834,72.96485,none,1,2026-09-15 00:21:01,False,False
+REP-0373,Urgent action needed! Lots of plastic waste accumulating in Ghodbunder Road.,email,Ghodbunder Road,19.26271,72.96435,plastic waste,4,2026-07-19 04:46:26,True,True
+REP-0374,Continuous open burning and dumping of organic waste near Naupada drain.,citizen,Naupada,19.18863,72.96811,organic waste,2,2026-08-09 01:55:49,False,True
+REP-0375,Illegal dumping of organic waste noticed behind Kopri market area.,email,Kopri,19.17864,72.97404,organic waste,2,2026-08-29 02:14:50,True,True
+REP-0376,Urgent action needed! Lots of household garbage accumulating in Mumbra.,form,Mumbra,19.17428,73.02071,household garbage,3,2026-07-11 07:46:30,False,True
+REP-0377,Streetlights not working on main road in Kopri.,citizen,Kopri,19.18182,72.98064,none,1,2026-08-05 03:09:49,False,False
+REP-0378,Illegal dumping of organic waste noticed behind Majiwada market area.,citizen,Majiwada,19.22104,72.97772,organic waste,2,2026-08-03 11:20:35,True,True
+REP-0379,Chemical & plastic waste openly dumped near school in Wagle Estate.,email,Wagle Estate,19.20225,72.95075,plastic waste,3,2026-07-05 08:50:38,False,True
+REP-0380,Huge pile of plastic waste dumped near Wagle Estate station. Smelling horrible.,twitter,Wagle Estate,19.19343,72.94867,plastic waste,2,2026-08-18 05:09:27,False,True
+REP-0381,Huge pile of medical waste dumped near Wagle Estate station. Smelling horrible.,twitter,Wagle Estate,19.20116,72.95352,medical waste,3,2026-09-14 18:27:07,True,True
+REP-0382,Illegal dumping of industrial waste noticed behind Kopri market area.,citizen,Kopri,19.18106,72.9746,industrial waste,5,2026-09-30 18:48:23,False,True
+REP-0383,Potholes on the main flyover in Mumbra causing heavy traffic.,twitter,Mumbra,19.17672,73.01981,none,1,2026-08-16 20:49:56,False,False
+REP-0384,Potholes on the main flyover in Mumbra causing heavy traffic.,twitter,Mumbra,19.1762,73.01634,none,1,2026-09-23 19:14:51,True,False
+REP-0385,People are throwing plastic waste right on the side of Ghodbunder Road road.,email,Ghodbunder Road,19.26002,72.96095,plastic waste,2,2026-08-04 19:11:51,False,True
+REP-0386,Chemical & organic waste openly dumped near school in Mumbra.,twitter,Mumbra,19.17477,73.02334,organic waste,3,2026-09-06 07:21:27,False,True
+REP-0387,Bohot sara garbage aur construction debris fela hua hai near Naupada bridge.,email,Naupada,19.19092,72.96837,construction debris,3,2026-06-13 09:55:10,False,True
+REP-0388,Chemical & industrial waste openly dumped near school in Wagle Estate.,citizen,Wagle Estate,19.19745,72.95374,industrial waste,3,2026-08-13 16:18:16,False,True
+REP-0389,Illegal dumping of construction debris noticed behind Diva market area.,form,Diva,19.18862,73.04571,construction debris,3,2026-09-23 06:58:02,True,True
+REP-0390,Illegal dumping of household garbage noticed behind Wagle Estate market area.,form,Wagle Estate,19.19974,72.95652,household garbage,2,2026-07-05 10:39:08,True,True
+REP-0391,Low water pressure in residential area of Majiwada.,citizen,Majiwada,19.21694,72.98196,none,1,2026-07-24 21:41:45,True,False
+REP-0392,Severe heap of medical waste blocking footpaths in Ghodbunder Road nagar.,twitter,Ghodbunder Road,19.2633,72.96629,medical waste,5,2026-09-06 20:34:49,True,True
+REP-0393,Huge pile of organic waste dumped near Ghodbunder Road station. Smelling horrible.,citizen,Ghodbunder Road,19.2617,72.96079,organic waste,2,2026-08-23 12:40:22,True,True
+REP-0394,Huge pile of construction debris dumped near Wagle Estate station. Smelling horrible.,citizen,Wagle Estate,19.19782,72.95651,construction debris,2,2026-07-06 05:35:59,True,True
+REP-0395,Chemical & industrial waste openly dumped near school in Kopri.,form,Kopri,19.17972,72.97507,industrial waste,4,2026-08-27 05:24:26,True,True
+REP-0396,Huge pile of plastic waste dumped near Mumbra station. Smelling horrible.,email,Mumbra,19.17978,73.02061,plastic waste,2,2026-08-27 20:53:58,False,True
+REP-0397,Streetlights not working on main road in Wagle Estate.,email,Wagle Estate,19.20132,72.94796,none,1,2026-08-10 08:43:04,True,False
+REP-0398,Bohot sara garbage aur medical waste fela hua hai near Wagle Estate bridge.,form,Wagle Estate,19.19305,72.95333,medical waste,3,2026-08-31 15:45:18,False,True
+REP-0399,Streetlights not working on main road in Naupada.,twitter,Naupada,19.18959,72.96936,none,1,2026-06-06 06:46:58,False,False
+REP-0400,Urgent action needed! Lots of construction debris accumulating in Wagle Estate.,twitter,Wagle Estate,19.19556,72.953,construction debris,4,2026-09-21 20:03:47,False,True
+REP-0401,Bohot sara garbage aur organic waste fela hua hai near Kalwa bridge.,email,Kalwa,19.1927,72.99455,organic waste,4,2026-08-08 22:38:42,False,True
+REP-0402,Urgent action needed! Lots of medical waste accumulating in Wagle Estate.,form,Wagle Estate,19.19882,72.95299,medical waste,3,2026-09-21 13:53:39,False,True
+REP-0403,Severe heap of plastic waste blocking footpaths in Kopri nagar.,citizen,Kopri,19.17891,72.98296,plastic waste,3,2026-09-27 09:00:02,False,True
+REP-0404,Illegal dumping of plastic waste noticed behind Ghodbunder Road market area.,twitter,Ghodbunder Road,19.26037,72.96592,plastic waste,2,2026-08-16 16:52:26,False,True
+REP-0405,People are throwing household garbage right on the side of Kopri road.,email,Kopri,19.18636,72.97344,household garbage,3,2026-07-31 20:13:55,False,True
+REP-0406,Huge pile of household garbage dumped near Vartak Nagar station. Smelling horrible.,citizen,Vartak Nagar,19.20693,72.96389,household garbage,1,2026-09-11 19:43:59,False,True
+REP-0407,Continuous open burning and dumping of household garbage near Ghodbunder Road drain.,twitter,Ghodbunder Road,19.26106,72.96277,household garbage,2,2026-07-23 05:08:52,False,True
+REP-0408,Bohot sara garbage aur household garbage fela hua hai near Diva bridge.,email,Diva,19.1876,73.04075,household garbage,2,2026-06-24 12:21:49,False,True
+REP-0409,Chemical & plastic waste openly dumped near school in Kolshet.,citizen,Kolshet,19.2327,72.98706,plastic waste,2,2026-09-27 12:43:20,True,True
+REP-0410,"Bus stop roof broken in Kopri, please fix soon.",twitter,Kopri,19.18541,72.97567,none,1,2026-07-20 16:15:41,False,False
+REP-0411,Severe heap of plastic waste blocking footpaths in Mumbra nagar.,email,Mumbra,19.1743,73.02352,plastic waste,3,2026-09-21 15:16:29,True,True
+REP-0412,Water pipeline leaking near Kopri junction since morning.,email,Kopri,19.18411,72.9783,none,1,2026-08-14 06:17:58,False,False
+REP-0413,Huge pile of organic waste dumped near Naupada station. Smelling horrible.,form,Naupada,19.19501,72.9744,organic waste,3,2026-09-20 05:47:29,False,True
+REP-0414,Chemical & e-waste openly dumped near school in Wagle Estate.,email,Wagle Estate,19.19816,72.9502,e-waste,1,2026-09-26 10:42:46,False,True
+REP-0415,Severe heap of organic waste blocking footpaths in Vartak Nagar nagar.,twitter,Vartak Nagar,19.21159,72.96587,organic waste,3,2026-08-25 02:54:58,True,True
+REP-0416,Severe heap of construction debris blocking footpaths in Ghodbunder Road nagar.,twitter,Ghodbunder Road,19.2661,72.96862,construction debris,4,2026-08-29 11:22:31,False,True
+REP-0417,Water pipeline leaking near Vartak Nagar junction since morning.,email,Vartak Nagar,19.21296,72.96581,none,1,2026-07-05 15:33:15,True,False
+REP-0418,Low water pressure in residential area of Diva.,form,Diva,19.18921,73.04684,none,1,2026-09-17 08:00:28,True,False
+REP-0419,Huge pile of industrial waste dumped near Vartak Nagar station. Smelling horrible.,twitter,Vartak Nagar,19.21418,72.96022,industrial waste,3,2026-08-28 16:50:09,False,True
+REP-0420,Bohot sara garbage aur industrial waste fela hua hai near Kolshet bridge.,twitter,Kolshet,19.22925,72.99277,industrial waste,4,2026-09-05 18:00:01,True,True
+REP-0421,Potholes on the main flyover in Ghodbunder Road causing heavy traffic.,twitter,Ghodbunder Road,19.26828,72.96237,none,1,2026-07-26 17:40:08,False,False
+REP-0422,Streetlights not working on main road in Naupada.,citizen,Naupada,19.19112,72.97456,none,1,2026-09-17 05:09:06,False,False
+REP-0423,Continuous open burning and dumping of construction debris near Mumbra drain.,email,Mumbra,19.17618,73.02294,construction debris,3,2026-07-25 06:04:26,True,True
+REP-0424,Illegal dumping of organic waste noticed behind Ghodbunder Road market area.,email,Ghodbunder Road,19.26052,72.96334,organic waste,1,2026-09-02 20:22:19,False,True
+REP-0425,Urgent action needed! Lots of e-waste accumulating in Wagle Estate.,email,Wagle Estate,19.19673,72.95057,e-waste,1,2026-08-15 02:36:07,False,True
+REP-0426,Low water pressure in residential area of Kopri.,form,Kopri,19.17719,72.97398,none,1,2026-09-04 02:01:05,False,False
+REP-0427,"Bus stop roof broken in Mumbra, please fix soon.",form,Mumbra,19.17175,73.01975,none,1,2026-09-17 15:38:55,False,False
+REP-0428,Urgent action needed! Lots of e-waste accumulating in Mumbra.,email,Mumbra,19.17745,73.02277,e-waste,3,2026-06-24 21:04:10,False,True
+REP-0429,Huge pile of e-waste dumped near Mumbra station. Smelling horrible.,twitter,Mumbra,19.1771,73.02431,e-waste,2,2026-07-17 10:54:10,False,True
+REP-0430,Bohot sara garbage aur industrial waste fela hua hai near Kolshet bridge.,form,Kolshet,19.22902,72.99255,industrial waste,5,2026-06-20 00:43:10,False,True
+REP-0431,Low water pressure in residential area of Majiwada.,citizen,Majiwada,19.21523,72.98542,none,1,2026-08-15 21:20:02,False,False
+REP-0432,Bohot sara garbage aur plastic waste fela hua hai near Wagle Estate bridge.,twitter,Wagle Estate,19.20179,72.94969,plastic waste,2,2026-07-23 23:38:06,False,True
+REP-0433,Chemical & industrial waste openly dumped near school in Kolshet.,twitter,Kolshet,19.23148,72.98399,industrial waste,4,2026-06-28 23:48:19,True,True
+REP-0434,Severe heap of industrial waste blocking footpaths in Ghodbunder Road nagar.,twitter,Ghodbunder Road,19.26754,72.96082,industrial waste,4,2026-09-20 22:01:21,False,True
+REP-0435,Severe heap of e-waste blocking footpaths in Kolshet nagar.,twitter,Kolshet,19.22986,72.99022,e-waste,3,2026-08-28 13:26:28,False,True
+REP-0436,Chemical & plastic waste openly dumped near school in Mumbra.,twitter,Mumbra,19.17563,73.0226,plastic waste,3,2026-09-27 16:16:11,False,True
+REP-0437,Urgent action needed! Lots of organic waste accumulating in Kopri.,email,Kopri,19.18635,72.97753,organic waste,2,2026-09-17 18:20:19,False,True
+REP-0438,People are throwing construction debris right on the side of Kopri road.,twitter,Kopri,19.18491,72.97486,construction debris,1,2026-08-13 01:53:12,True,True
+REP-0439,Chemical & household garbage openly dumped near school in Majiwada.,twitter,Majiwada,19.22218,72.98352,household garbage,2,2026-06-29 20:19:23,False,True
+REP-0440,Huge pile of organic waste dumped near Wagle Estate station. Smelling horrible.,twitter,Wagle Estate,19.20024,72.95401,organic waste,1,2026-08-01 18:28:16,True,True
+REP-0441,Bohot sara garbage aur construction debris fela hua hai near Wagle Estate bridge.,form,Wagle Estate,19.19354,72.95115,construction debris,3,2026-08-23 16:31:48,False,True
+REP-0442,Chemical & medical waste openly dumped near school in Wagle Estate.,email,Wagle Estate,19.1961,72.95477,medical waste,5,2026-06-28 10:53:33,False,True
+REP-0443,Bohot sara garbage aur e-waste fela hua hai near Kolshet bridge.,form,Kolshet,19.22924,72.9837,e-waste,1,2026-09-28 12:53:58,False,True
+REP-0444,Continuous open burning and dumping of organic waste near Kalwa drain.,twitter,Kalwa,19.19175,72.99383,organic waste,2,2026-09-24 22:30:45,True,True
+REP-0445,People are throwing household garbage right on the side of Wagle Estate road.,twitter,Wagle Estate,19.19449,72.94955,household garbage,4,2026-08-14 20:10:13,False,True
+REP-0446,Chemical & medical waste openly dumped near school in Kopri.,form,Kopri,19.1794,72.97473,medical waste,5,2026-07-21 14:08:36,True,True
+REP-0447,Streetlights not working on main road in Wagle Estate.,form,Wagle Estate,19.20295,72.95657,none,1,2026-09-14 08:34:34,True,False
+REP-0448,Urgent action needed! Lots of household garbage accumulating in Wagle Estate.,email,Wagle Estate,19.19715,72.95586,household garbage,1,2026-09-22 13:43:33,True,True
+REP-0449,Streetlights not working on main road in Mumbra.,form,Mumbra,19.17489,73.01573,none,1,2026-09-21 07:09:46,False,False
+REP-0450,Severe heap of e-waste blocking footpaths in Wagle Estate nagar.,citizen,Wagle Estate,19.19969,72.95008,e-waste,2,2026-08-12 23:59:59,False,True
+REP-0451,Streetlights not working on main road in Kopri.,citizen,Kopri,19.1776,72.97802,none,1,2026-09-06 12:12:25,False,False
+REP-0452,Illegal dumping of industrial waste noticed behind Ghodbunder Road market area.,citizen,Ghodbunder Road,19.26415,72.9689,industrial waste,5,2026-09-13 12:21:39,False,True
+REP-0453,Huge pile of industrial waste dumped near Wagle Estate station. Smelling horrible.,email,Wagle Estate,19.19973,72.95038,industrial waste,3,2026-07-04 14:52:24,False,True
+REP-0454,Streetlights not working on main road in Diva.,citizen,Diva,19.18333,73.03754,none,1,2026-09-12 10:18:09,True,False
+REP-0455,Illegal dumping of industrial waste noticed behind Vartak Nagar market area.,form,Vartak Nagar,19.2117,72.96307,industrial waste,5,2026-07-24 05:09:29,True,True
+REP-0456,Chemical & medical waste openly dumped near school in Majiwada.,twitter,Majiwada,19.21424,72.97872,medical waste,3,2026-07-11 21:18:28,False,True
+REP-0457,Potholes on the main flyover in Mumbra causing heavy traffic.,twitter,Mumbra,19.17081,73.02089,none,1,2026-07-10 04:03:51,True,False
+REP-0458,Severe heap of medical waste blocking footpaths in Majiwada nagar.,form,Majiwada,19.21635,72.98444,medical waste,4,2026-07-12 14:36:32,False,True
+REP-0459,Continuous open burning and dumping of medical waste near Wagle Estate drain.,email,Wagle Estate,19.19448,72.95041,medical waste,3,2026-06-29 15:59:16,False,True
+REP-0460,Urgent action needed! Lots of household garbage accumulating in Wagle Estate.,citizen,Wagle Estate,19.19748,72.95464,household garbage,4,2026-08-28 14:15:47,True,True
+REP-0461,Urgent action needed! Lots of construction debris accumulating in Wagle Estate.,email,Wagle Estate,19.20235,72.95264,construction debris,1,2026-08-09 16:44:08,True,True
+REP-0462,Potholes on the main flyover in Mumbra causing heavy traffic.,email,Mumbra,19.17699,73.02097,none,1,2026-06-24 05:30:03,True,False
+REP-0463,Chemical & e-waste openly dumped near school in Majiwada.,email,Majiwada,19.21842,72.98696,e-waste,1,2026-08-23 04:25:10,False,True
+REP-0464,Bohot sara garbage aur industrial waste fela hua hai near Kolshet bridge.,form,Kolshet,19.22897,72.98502,industrial waste,3,2026-07-17 18:03:33,True,True
+REP-0465,Bohot sara garbage aur organic waste fela hua hai near Wagle Estate bridge.,form,Wagle Estate,19.20043,72.9566,organic waste,1,2026-09-24 11:31:29,False,True
+REP-0466,Severe heap of construction debris blocking footpaths in Majiwada nagar.,form,Majiwada,19.21677,72.98445,construction debris,4,2026-09-28 17:14:05,False,True
+REP-0467,Severe heap of household garbage blocking footpaths in Ghodbunder Road nagar.,form,Ghodbunder Road,19.26237,72.96241,household garbage,3,2026-09-06 12:46:56,True,True
+REP-0468,Urgent action needed! Lots of construction debris accumulating in Naupada.,citizen,Naupada,19.19637,72.97176,construction debris,3,2026-09-12 12:15:55,True,True
+REP-0469,Potholes on the main flyover in Kopri causing heavy traffic.,twitter,Kopri,19.18312,72.97409,none,1,2026-09-01 01:14:44,True,False
+REP-0470,People are throwing medical waste right on the side of Naupada road.,twitter,Naupada,19.19366,72.96752,medical waste,3,2026-08-10 12:51:51,False,True
+REP-0471,Severe heap of organic waste blocking footpaths in Naupada nagar.,email,Naupada,19.1942,72.97639,organic waste,3,2026-06-25 19:18:00,True,True
+REP-0472,Low water pressure in residential area of Kalwa.,twitter,Kalwa,19.19612,72.9944,none,1,2026-07-31 20:03:02,True,False
+REP-0473,People are throwing organic waste right on the side of Mumbra road.,twitter,Mumbra,19.17987,73.01794,organic waste,2,2026-08-10 13:27:58,True,True
+REP-0474,Huge pile of e-waste dumped near Majiwada station. Smelling horrible.,twitter,Majiwada,19.21802,72.98685,e-waste,3,2026-09-05 22:20:33,True,True
+REP-0475,Urgent action needed! Lots of plastic waste accumulating in Ghodbunder Road.,citizen,Ghodbunder Road,19.26111,72.96644,plastic waste,2,2026-08-22 23:09:23,True,True
+REP-0476,Continuous open burning and dumping of industrial waste near Ghodbunder Road drain.,twitter,Ghodbunder Road,19.26736,72.96603,industrial waste,4,2026-08-04 23:17:22,False,True
+REP-0477,Urgent action needed! Lots of medical waste accumulating in Vartak Nagar.,twitter,Vartak Nagar,19.21303,72.96267,medical waste,3,2026-07-29 08:43:28,True,True
+REP-0478,People are throwing industrial waste right on the side of Naupada road.,form,Naupada,19.19356,72.97527,industrial waste,5,2026-06-18 19:00:10,False,True
+REP-0479,Severe heap of construction debris blocking footpaths in Ghodbunder Road nagar.,email,Ghodbunder Road,19.26225,72.96165,construction debris,3,2026-07-24 19:12:59,False,True
+REP-0480,People are throwing plastic waste right on the side of Vartak Nagar road.,email,Vartak Nagar,19.20606,72.96044,plastic waste,3,2026-08-31 07:36:54,True,True
+REP-0481,Bohot sara garbage aur medical waste fela hua hai near Kolshet bridge.,form,Kolshet,19.22713,72.99196,medical waste,4,2026-08-20 03:09:49,False,True
+REP-0482,Potholes on the main flyover in Mumbra causing heavy traffic.,email,Mumbra,19.17221,73.02302,none,1,2026-08-06 13:32:45,False,False
+REP-0483,Urgent action needed! Lots of plastic waste accumulating in Kolshet.,twitter,Kolshet,19.22805,72.99038,plastic waste,2,2026-08-10 11:00:46,False,True
+REP-0484,Chemical & industrial waste openly dumped near school in Wagle Estate.,form,Wagle Estate,19.19589,72.94987,industrial waste,3,2026-07-15 05:11:00,False,True
+REP-0485,Potholes on the main flyover in Vartak Nagar causing heavy traffic.,form,Vartak Nagar,19.20945,72.96032,none,1,2026-06-14 18:36:51,False,False
+REP-0486,Streetlights not working on main road in Diva.,email,Diva,19.18472,73.04483,none,1,2026-09-02 22:13:11,False,False
+REP-0487,Severe heap of e-waste blocking footpaths in Kolshet nagar.,twitter,Kolshet,19.23048,72.983,e-waste,1,2026-07-16 09:41:05,False,True
+REP-0488,Urgent action needed! Lots of medical waste accumulating in Kolshet.,citizen,Kolshet,19.23616,72.99131,medical waste,3,2026-09-10 19:06:06,True,True
+REP-0489,Urgent action needed! Lots of medical waste accumulating in Vartak Nagar.,email,Vartak Nagar,19.21264,72.9665,medical waste,3,2026-08-11 07:01:01,False,True
+REP-0490,"Bus stop roof broken in Mumbra, please fix soon.",twitter,Mumbra,19.17654,73.01681,none,1,2026-08-13 18:46:25,False,False
+REP-0491,Huge pile of construction debris dumped near Kopri station. Smelling horrible.,twitter,Kopri,19.17757,72.9799,construction debris,1,2026-10-01 06:11:29,False,True
+REP-0492,Urgent action needed! Lots of plastic waste accumulating in Wagle Estate.,twitter,Wagle Estate,19.20194,72.94787,plastic waste,3,2026-09-29 12:39:45,True,True
+REP-0493,Streetlights not working on main road in Ghodbunder Road.,form,Ghodbunder Road,19.2684,72.96235,none,1,2026-07-31 11:43:07,True,False
+REP-0494,Urgent action needed! Lots of construction debris accumulating in Wagle Estate.,email,Wagle Estate,19.19308,72.94963,construction debris,4,2026-07-08 08:53:56,True,True
+REP-0495,Severe heap of industrial waste blocking footpaths in Ghodbunder Road nagar.,citizen,Ghodbunder Road,19.26826,72.96129,industrial waste,5,2026-09-21 01:02:44,True,True
+REP-0496,Water pipeline leaking near Ghodbunder Road junction since morning.,email,Ghodbunder Road,19.26994,72.96945,none,1,2026-09-07 15:35:10,False,False
+REP-0497,People are throwing e-waste right on the side of Mumbra road.,form,Mumbra,19.17558,73.02418,e-waste,4,2026-07-30 21:39:14,True,True
+REP-0498,Water pipeline leaking near Majiwada junction since morning.,twitter,Majiwada,19.21753,72.97829,none,1,2026-10-01 04:32:11,False,False
+REP-0499,Urgent action needed! Lots of organic waste accumulating in Mumbra.,twitter,Mumbra,19.17616,73.02026,organic waste,4,2026-09-11 10:32:26,True,True
+REP-0500,Chemical & e-waste openly dumped near school in Kalwa.,form,Kalwa,19.1952,72.99606,e-waste,1,2026-07-16 18:47:51,True,True
+REP-0501,Potholes on the main flyover in Mumbra causing heavy traffic.,email,Mumbra,19.17197,73.01772,none,1,2026-07-07 07:39:23,True,False
+REP-0502,Urgent action needed! Lots of organic waste accumulating in Vartak Nagar.,form,Vartak Nagar,19.21474,72.95869,organic waste,4,2026-09-14 05:09:18,False,True
+REP-0503,"Bus stop roof broken in Kolshet, please fix soon.",citizen,Kolshet,19.23008,72.98436,none,1,2026-09-05 13:08:14,False,False
+REP-0504,People are throwing e-waste right on the side of Mumbra road.,twitter,Mumbra,19.17446,73.01711,e-waste,4,2026-08-05 22:37:56,True,True
+REP-0505,Severe heap of e-waste blocking footpaths in Mumbra nagar.,email,Mumbra,19.17886,73.01846,e-waste,1,2026-07-19 13:56:15,False,True
+REP-0506,Huge pile of construction debris dumped near Mumbra station. Smelling horrible.,form,Mumbra,19.17679,73.01983,construction debris,4,2026-09-22 05:04:53,False,True
+REP-0507,Streetlights not working on main road in Mumbra.,form,Mumbra,19.17443,73.01786,none,1,2026-07-24 12:07:31,False,False
+REP-0508,Severe heap of construction debris blocking footpaths in Wagle Estate nagar.,email,Wagle Estate,19.20203,72.95652,construction debris,2,2026-09-29 00:21:11,True,True
+REP-0509,Chemical & organic waste openly dumped near school in Wagle Estate.,email,Wagle Estate,19.19889,72.95142,organic waste,2,2026-08-22 01:03:27,False,True
+REP-0510,Continuous open burning and dumping of household garbage near Wagle Estate drain.,email,Wagle Estate,19.19933,72.95574,household garbage,4,2026-08-17 18:33:28,False,True
+REP-0511,Huge pile of organic waste dumped near Mumbra station. Smelling horrible.,twitter,Mumbra,19.17731,73.01616,organic waste,1,2026-08-17 09:52:16,False,True
+REP-0512,Urgent action needed! Lots of e-waste accumulating in Kopri.,email,Kopri,19.17894,72.97506,e-waste,1,2026-09-13 17:50:17,True,True
+REP-0513,Severe heap of medical waste blocking footpaths in Mumbra nagar.,twitter,Mumbra,19.17983,73.02047,medical waste,5,2026-08-08 03:01:05,False,True
+REP-0514,Urgent action needed! Lots of household garbage accumulating in Kalwa.,form,Kalwa,19.19654,73.0029,household garbage,3,2026-07-20 06:26:00,False,True
+REP-0515,Bohot sara garbage aur household garbage fela hua hai near Mumbra bridge.,form,Mumbra,19.17511,73.01962,household garbage,1,2026-07-12 01:09:08,False,True
+REP-0516,Urgent action needed! Lots of organic waste accumulating in Mumbra.,form,Mumbra,19.17796,73.0189,organic waste,4,2026-09-14 10:51:47,False,True
+REP-0517,Huge pile of medical waste dumped near Wagle Estate station. Smelling horrible.,email,Wagle Estate,19.19554,72.95404,medical waste,5,2026-09-08 20:19:58,False,True
+REP-0518,People are throwing organic waste right on the side of Ghodbunder Road road.,citizen,Ghodbunder Road,19.26048,72.96718,organic waste,4,2026-07-31 12:43:35,False,True
+REP-0519,Low water pressure in residential area of Naupada.,citizen,Naupada,19.19596,72.96728,none,1,2026-08-05 10:49:03,False,False
+REP-0520,Bohot sara garbage aur organic waste fela hua hai near Kalwa bridge.,citizen,Kalwa,19.19554,73.00088,organic waste,2,2026-09-23 15:24:18,False,True
+REP-0521,Continuous open burning and dumping of plastic waste near Kolshet drain.,form,Kolshet,19.23187,72.98801,plastic waste,2,2026-09-07 17:10:02,False,True
+REP-0522,Continuous open burning and dumping of plastic waste near Kolshet drain.,email,Kolshet,19.23626,72.99157,plastic waste,1,2026-09-15 10:33:43,False,True
+REP-0523,Streetlights not working on main road in Wagle Estate.,twitter,Wagle Estate,19.20058,72.95601,none,1,2026-08-14 10:48:25,False,False
+REP-0524,Streetlights not working on main road in Majiwada.,twitter,Majiwada,19.218,72.98514,none,1,2026-09-17 02:53:10,True,False
+REP-0525,Severe heap of construction debris blocking footpaths in Kolshet nagar.,form,Kolshet,19.2279,72.98325,construction debris,2,2026-08-28 04:10:21,False,True
+REP-0526,People are throwing household garbage right on the side of Wagle Estate road.,citizen,Wagle Estate,19.19872,72.95524,household garbage,4,2026-08-17 17:38:42,False,True
+REP-0527,Chemical & plastic waste openly dumped near school in Majiwada.,twitter,Majiwada,19.21457,72.98489,plastic waste,3,2026-09-23 03:19:09,False,True
+REP-0528,Illegal dumping of construction debris noticed behind Vartak Nagar market area.,form,Vartak Nagar,19.20895,72.95868,construction debris,1,2026-08-20 12:22:00,True,True
+REP-0529,Continuous open burning and dumping of household garbage near Mumbra drain.,form,Mumbra,19.1768,73.0218,household garbage,1,2026-08-30 07:33:28,False,True
+REP-0530,Urgent action needed! Lots of organic waste accumulating in Mumbra.,citizen,Mumbra,19.17048,73.01591,organic waste,1,2026-07-25 07:01:26,False,True
+REP-0531,Low water pressure in residential area of Ghodbunder Road.,form,Ghodbunder Road,19.26701,72.96911,none,1,2026-09-09 08:07:33,False,False
+REP-0532,Huge pile of medical waste dumped near Mumbra station. Smelling horrible.,form,Mumbra,19.17615,73.01672,medical waste,3,2026-09-30 08:40:10,True,True
+REP-0533,Potholes on the main flyover in Ghodbunder Road causing heavy traffic.,twitter,Ghodbunder Road,19.26883,72.96156,none,1,2026-09-16 08:31:21,False,False
+REP-0534,Chemical & construction debris openly dumped near school in Kopri.,citizen,Kopri,19.17796,72.9769,construction debris,4,2026-09-08 19:55:06,True,True
+REP-0535,Chemical & household garbage openly dumped near school in Majiwada.,form,Majiwada,19.22159,72.98096,household garbage,2,2026-08-19 10:25:07,False,True
+REP-0536,"Bus stop roof broken in Wagle Estate, please fix soon.",email,Wagle Estate,19.19814,72.95174,none,1,2026-08-01 01:44:35,False,False
+REP-0537,Huge pile of e-waste dumped near Wagle Estate station. Smelling horrible.,twitter,Wagle Estate,19.20037,72.95597,e-waste,1,2026-07-24 07:25:56,False,True
+REP-0538,Chemical & organic waste openly dumped near school in Kolshet.,twitter,Kolshet,19.23053,72.991,organic waste,1,2026-08-21 03:20:22,False,True
+REP-0539,Chemical & e-waste openly dumped near school in Wagle Estate.,email,Wagle Estate,19.19401,72.95137,e-waste,4,2026-06-26 07:43:10,True,True
+REP-0540,Severe heap of plastic waste blocking footpaths in Kopri nagar.,email,Kopri,19.17727,72.97989,plastic waste,3,2026-07-22 19:37:13,True,True
+REP-0541,Illegal dumping of e-waste noticed behind Wagle Estate market area.,citizen,Wagle Estate,19.19553,72.95327,e-waste,4,2026-09-23 00:58:11,False,True
+REP-0542,Urgent action needed! Lots of organic waste accumulating in Wagle Estate.,email,Wagle Estate,19.19667,72.95287,organic waste,4,2026-07-06 11:28:51,True,True
+REP-0543,Huge pile of industrial waste dumped near Kopri station. Smelling horrible.,twitter,Kopri,19.17813,72.97304,industrial waste,4,2026-09-18 07:20:48,True,True
+REP-0544,Low water pressure in residential area of Mumbra.,twitter,Mumbra,19.17345,73.01597,none,1,2026-07-27 06:59:49,True,False
+REP-0545,Continuous open burning and dumping of medical waste near Kopri drain.,email,Kopri,19.18599,72.97789,medical waste,5,2026-09-21 15:01:26,True,True
+REP-0546,Continuous open burning and dumping of construction debris near Wagle Estate drain.,email,Wagle Estate,19.19835,72.95089,construction debris,3,2026-07-07 07:26:53,False,True
+REP-0547,People are throwing e-waste right on the side of Wagle Estate road.,email,Wagle Estate,19.19657,72.94773,e-waste,1,2026-08-31 03:06:29,False,True
+REP-0548,Low water pressure in residential area of Wagle Estate.,email,Wagle Estate,19.20197,72.95698,none,1,2026-07-29 07:11:06,False,False
+REP-0549,Water pipeline leaking near Kopri junction since morning.,form,Kopri,19.18645,72.98198,none,1,2026-07-20 21:28:48,False,False
+REP-0550,Continuous open burning and dumping of organic waste near Kopri drain.,citizen,Kopri,19.17872,72.97984,organic waste,2,2026-06-25 05:18:17,False,True
+REP-0551,People are throwing construction debris right on the side of Naupada road.,citizen,Naupada,19.19165,72.97588,construction debris,4,2026-08-15 23:50:43,True,True
+REP-0552,Streetlights not working on main road in Kopri.,citizen,Kopri,19.18176,72.98212,none,1,2026-09-10 09:57:28,False,False
+REP-0553,Illegal dumping of plastic waste noticed behind Kopri market area.,email,Kopri,19.1847,72.98167,plastic waste,4,2026-09-04 02:08:52,True,True
+REP-0554,Bohot sara garbage aur e-waste fela hua hai near Kolshet bridge.,email,Kolshet,19.23279,72.98446,e-waste,4,2026-09-06 19:40:45,False,True
+REP-0555,Bohot sara garbage aur medical waste fela hua hai near Wagle Estate bridge.,email,Wagle Estate,19.19868,72.95098,medical waste,3,2026-07-25 09:21:28,True,True
+REP-0556,Water pipeline leaking near Mumbra junction since morning.,citizen,Mumbra,19.17042,73.01898,none,1,2026-09-17 14:48:54,False,False
+REP-0557,Continuous open burning and dumping of plastic waste near Wagle Estate drain.,email,Wagle Estate,19.19685,72.95385,plastic waste,1,2026-08-11 02:51:07,False,True
+REP-0558,Potholes on the main flyover in Naupada causing heavy traffic.,citizen,Naupada,19.19073,72.97033,none,1,2026-06-29 04:55:24,False,False
+REP-0559,Continuous open burning and dumping of e-waste near Kopri drain.,twitter,Kopri,19.18253,72.98179,e-waste,1,2026-09-25 22:10:54,False,True
+REP-0560,Illegal dumping of medical waste noticed behind Kolshet market area.,form,Kolshet,19.23044,72.9918,medical waste,3,2026-09-15 09:47:43,True,True
+REP-0561,Re-reporting again: household garbage still lying near Mumbra area!,citizen,Mumbra,19.17641,73.02091,household garbage,1,2026-08-30 21:33:28,False,True
+REP-0562,Re-reporting again: construction debris still lying near Majiwada area!,email,Majiwada,19.21567,72.98034,construction debris,2,2026-09-08 21:07:42,False,True
+REP-0563,Re-reporting again: household garbage still lying near Mumbra area!,form,Mumbra,19.17626,73.02068,household garbage,1,2026-09-01 04:33:28,False,True
+REP-0564,Re-reporting again: construction debris still lying near Naupada area!,twitter,Naupada,19.19591,72.97206,construction debris,3,2026-09-12 21:15:55,False,True
+REP-0565,Re-reporting again: e-waste still lying near Kopri area!,citizen,Kopri,19.17673,72.9795,e-waste,3,2026-07-20 04:30:54,False,True
+REP-0566,Re-reporting again: industrial waste still lying near Ghodbunder Road area!,form,Ghodbunder Road,19.26776,72.96332,industrial waste,5,2026-07-05 05:57:36,True,True
+REP-0567,Re-reporting again: household garbage still lying near Majiwada area!,citizen,Majiwada,19.21412,72.98469,household garbage,3,2026-07-26 09:47:10,True,True
+REP-0568,Re-reporting again: industrial waste still lying near Ghodbunder Road area!,citizen,Ghodbunder Road,19.26664,72.9656,industrial waste,4,2026-08-06 01:17:22,True,True
+REP-0569,Re-reporting again: plastic waste still lying near Wagle Estate area!,twitter,Wagle Estate,19.20342,72.95461,plastic waste,4,2026-08-05 12:20:42,False,True
+REP-0570,Re-reporting again: medical waste still lying near Mumbra area!,twitter,Mumbra,19.17921,73.02013,medical waste,5,2026-08-08 17:01:05,False,True
+REP-0571,Re-reporting again: organic waste still lying near Ghodbunder Road area!,form,Ghodbunder Road,19.26556,72.9609,organic waste,4,2026-08-13 16:47:09,False,True
+REP-0572,Re-reporting again: construction debris still lying near Ghodbunder Road area!,citizen,Ghodbunder Road,19.26666,72.96946,construction debris,4,2026-08-29 16:22:31,False,True
+REP-0573,Re-reporting again: industrial waste still lying near Wagle Estate area!,twitter,Wagle Estate,19.20058,72.9513,industrial waste,3,2026-07-04 17:52:24,True,True
+REP-0574,Re-reporting again: medical waste still lying near Kopri area!,twitter,Kopri,19.18649,72.98131,medical waste,3,2026-06-10 22:26:27,True,True
+REP-0575,Re-reporting again: medical waste still lying near Naupada area!,twitter,Naupada,19.19255,72.96934,medical waste,5,2026-07-31 14:01:59,False,True
+REP-0576,Re-reporting again: medical waste still lying near Kopri area!,twitter,Kopri,19.1851,72.97318,medical waste,3,2026-09-08 15:13:12,False,True
+REP-0577,Re-reporting again: medical waste still lying near Kolshet area!,twitter,Kolshet,19.23285,72.98515,medical waste,4,2026-09-28 03:39:15,True,True
+REP-0578,Re-reporting again: e-waste still lying near Diva area!,form,Diva,19.18653,73.04585,e-waste,1,2026-09-15 03:03:06,False,True
+REP-0579,Re-reporting again: organic waste still lying near Kalwa area!,twitter,Kalwa,19.19083,72.9929,organic waste,2,2026-09-26 05:30:45,False,True
+REP-0580,Re-reporting again: construction debris still lying near Naupada area!,citizen,Naupada,19.19566,72.97238,construction debris,3,2026-09-13 03:15:55,True,True
+REP-0581,Re-reporting again: medical waste still lying near Ghodbunder Road area!,twitter,Ghodbunder Road,19.2672,72.95982,medical waste,5,2026-08-09 02:14:07,True,True
+REP-0582,Re-reporting again: organic waste still lying near Mumbra area!,twitter,Mumbra,19.17658,73.01604,organic waste,1,2026-08-17 23:52:16,False,True
+REP-0583,Re-reporting again: e-waste still lying near Kalwa area!,citizen,Kalwa,19.19868,73.00126,e-waste,1,2026-08-17 17:28:35,True,True
+REP-0584,Re-reporting again: construction debris still lying near Naupada area!,email,Naupada,19.19711,72.97246,construction debris,3,2026-09-12 20:15:55,True,True
+REP-0585,Re-reporting again: e-waste still lying near Diva area!,citizen,Diva,19.1878,73.04261,e-waste,4,2026-07-26 01:56:01,True,True
+REP-0586,Re-reporting again: household garbage still lying near Wagle Estate area!,citizen,Wagle Estate,19.19584,72.95591,household garbage,2,2026-09-17 09:20:42,True,True
+REP-0587,Re-reporting again: construction debris still lying near Diva area!,form,Diva,19.19013,73.04251,construction debris,2,2026-08-31 19:49:57,False,True
+REP-0588,Re-reporting again: e-waste still lying near Diva area!,email,Diva,19.18692,73.04316,e-waste,4,2026-10-01 13:03:46,True,True
+REP-0589,Re-reporting again: household garbage still lying near Wagle Estate area!,twitter,Wagle Estate,19.19768,72.95459,household garbage,4,2026-08-30 01:15:47,False,True
+REP-0590,Re-reporting again: household garbage still lying near Kolshet area!,twitter,Kolshet,19.23593,72.98684,household garbage,3,2026-08-02 11:15:44,False,True
+REP-0591,Re-reporting again: e-waste still lying near Ghodbunder Road area!,twitter,Ghodbunder Road,19.26144,72.96209,e-waste,1,2026-06-09 01:21:59,False,True
+REP-0592,Re-reporting again: industrial waste still lying near Kopri area!,email,Kopri,19.1789,72.97428,industrial waste,4,2026-08-28 01:24:26,False,True
+REP-0593,Re-reporting again: organic waste still lying near Mumbra area!,twitter,Mumbra,19.17276,73.02003,organic waste,2,2026-09-12 06:54:55,True,True
+REP-0594,Re-reporting again: e-waste still lying near Wagle Estate area!,twitter,Wagle Estate,19.19719,72.95296,e-waste,3,2026-07-02 17:47:09,True,True
+REP-0595,Re-reporting again: plastic waste still lying near Kopri area!,twitter,Kopri,19.17874,72.98299,plastic waste,3,2026-09-28 15:00:02,False,True
+REP-0596,Re-reporting again: e-waste still lying near Kopri area!,email,Kopri,19.17974,72.97429,e-waste,1,2026-09-14 13:50:17,False,True
+REP-0597,Re-reporting again: construction debris still lying near Diva area!,email,Diva,19.18938,73.04644,construction debris,3,2026-09-24 12:58:02,False,True
+REP-0598,Re-reporting again: construction debris still lying near Mumbra area!,email,Mumbra,19.17628,73.02393,construction debris,3,2026-07-25 15:04:26,False,True
+REP-0599,Re-reporting again: construction debris still lying near Naupada area!,form,Naupada,19.19523,72.97246,construction debris,3,2026-09-13 07:15:55,True,True
+REP-0600,Re-reporting again: medical waste still lying near Diva area!,form,Diva,19.19183,73.04398,medical waste,3,2026-09-07 10:02:23,True,True
