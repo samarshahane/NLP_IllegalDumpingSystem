@@ -9,7 +9,7 @@ torch>=2.2
 torchvision>=0.17
 sentence-transformers>=2.7
 spacy>=3.7
-# after install run: python -m spacy download en_core_web_sm
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
 
 # --- Geo / maps ---
 geopy>=2.4

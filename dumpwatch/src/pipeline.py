@@ -53,7 +53,8 @@ def process_report(
         except Exception:
             pass
 
-    status = "Pending" if is_dumping else "Rejected"
+    # All submitted complaints start as Pending — rejection is an admin decision, not automatic
+    status = "Pending"
     duplicate_of = None
 
     # Extraction & Geocoding

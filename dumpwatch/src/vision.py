@@ -2,15 +2,20 @@ import streamlit as st
 from PIL import Image
 
 
+@st.cache_resource
+def get_vision_pipe():
+    """Load and cache CLIP vision pipeline."""
+    from transformers import pipeline
+    return pipeline("zero-shot-image-classification", model="openai/clip-vit-base-patch32")
+
+
 def check_image(pil_image: Image.Image) -> dict:
     """Classify image evidence zero-shot using CLIP, failing gracefully if torchvision/transformers dependencies are missing."""
     if pil_image is None:
         return {"shows_dumping": False, "confidence": 0.0}
 
     try:
-        from transformers import pipeline
-
-        pipe = pipeline("zero-shot-image-classification", model="openai/clip-vit-base-patch32")
+        pipe = get_vision_pipe()
         candidate_labels = [
             "a photo of illegally dumped garbage",
             "a clean street",

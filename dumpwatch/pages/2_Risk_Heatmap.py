@@ -12,13 +12,19 @@ from src.hotspot import find_hotspots
 from src.risk import predict_risk
 from src.storage import Storage, get_reports_df
 
-st.set_page_config(page_title="Risk Heatmap - DumpWatch", page_icon="🔥", layout="wide")
-st.title("🔥 Predicted Risk Heatmap & Hotspots")
+st.set_page_config(page_title="Risk Heatmap - DumpWatch Enterprise", layout="wide")
+
+# Check Auth
+if not st.session_state.get("authenticated", False):
+    st.warning("Restricted Page: Backoffice / Admin authentication required. Please log in from the main portal.")
+    st.stop()
+
+st.title("Predicted Risk Heatmap & Hotspot Analysis")
 
 df = get_reports_df()
 
 if df.empty:
-    st.info("No reports yet.")
+    st.info("No reports data available.")
     st.stop()
 
 storage = Storage()
@@ -62,3 +68,4 @@ with col2:
     st.subheader("Model Validation")
     st.metric("RandomForest Model MAE", f"{mae} incidents/week")
     st.caption("RandomForestRegressor evaluated via time-based split across 500m spatial grid cells.")
+

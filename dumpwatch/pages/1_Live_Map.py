@@ -9,25 +9,31 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 import config
 from src.storage import Storage, get_reports_df, get_waste_types
 
-st.set_page_config(page_title="Live Map - DumpWatch", page_icon="🗺️", layout="wide")
-st.title("🗺️ Live Incidents Map")
+st.set_page_config(page_title="Live Map - DumpWatch Enterprise", layout="wide")
+
+# Check Auth
+if not st.session_state.get("authenticated", False):
+    st.warning("Restricted Page: Backoffice / Admin authentication required. Please log in from the main portal.")
+    st.stop()
+
+st.title("Live Incidents Map")
 
 df = get_reports_df()
 
 if df.empty:
-    st.info("No reports yet.")
+    st.info("No incident records available.")
     st.stop()
 
 # Sidebar Filters
-st.sidebar.header("Filter Reports")
+st.sidebar.header("Filter Incident Reports")
 all_statuses = ["Pending", "Resolved", "Duplicate", "Rejected"]
-selected_statuses = st.sidebar.multiselect("Status", options=all_statuses, default=["Pending", "Resolved"])
+selected_statuses = st.sidebar.multiselect("Status Filter", options=all_statuses, default=["Pending", "Resolved"])
 
 available_wastes = get_waste_types()
 selected_wastes = st.sidebar.multiselect("Waste Type", options=available_wastes, default=[])
 
 available_sources = list(df["source"].unique()) if "source" in df.columns else []
-selected_sources = st.sidebar.multiselect("Source", options=available_sources, default=[])
+selected_sources = st.sidebar.multiselect("Source Feed", options=available_sources, default=[])
 
 filtered_df = df.copy()
 
@@ -62,7 +68,7 @@ for _, row in filtered_df.iterrows():
     <b>Waste Type:</b> {row['waste_type']}<br>
     <b>Severity:</b> {row['severity']}/5<br>
     <b>Time:</b> {row['timestamp']}<br>
-    <b>Text:</b> {row['raw_text'][:100]}...{img_html}
+    <b>Summary:</b> {row['raw_text'][:100]}...{img_html}
     """
 
     folium.CircleMarker(
@@ -83,10 +89,11 @@ st.subheader("Update Complaint Status")
 pending_df = df[df["status"] == "Pending"] if not df.empty else pd.DataFrame()
 if not pending_df.empty:
     target_id = st.selectbox("Select Pending Report ID:", pending_df["report_id"].unique())
-    if st.button("Mark as Resolved"):
+    if st.button("Mark as Resolved", type="primary"):
         storage = Storage()
         storage.update_status(target_id, "Resolved")
-        st.success(f"Report {target_id} updated to Resolved in DB and CSV!")
+        st.success(f"Report {target_id} updated to Resolved.")
         st.rerun()
 else:
-    st.info("No pending complaints available to resolve.")
+    st.info("No pending complaints available for resolution.")
+

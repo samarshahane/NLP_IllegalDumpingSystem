@@ -314,3 +314,72 @@ def load_sample_csv():
     df_out = pd.DataFrame(formatted_rows)
     os.makedirs(config.DATA_DIR, exist_ok=True)
     df_out.to_csv(csv_path, index=False)
+
+
+# --- EMPLOYEE DATABASE STORAGE ---
+def get_employees_path():
+    return os.path.join(config.DATA_DIR, "employees.json")
+
+
+def get_all_employees() -> list:
+    """Retrieve list of registered employees."""
+    path = get_employees_path()
+    if not os.path.exists(path):
+        # Default initial admin employee account
+        default_admin = [{
+            "employee_id": "EMP1001",
+            "name": "System Administrator",
+            "password": "admin",
+            "role": "Administrator",
+            "created_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        }]
+        os.makedirs(config.DATA_DIR, exist_ok=True)
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump(default_admin, f, indent=2)
+        return default_admin
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except Exception:
+        return []
+
+
+def register_employee(emp_id: str, name: str, password: str, role: str = "Backoffice Officer") -> tuple[bool, str]:
+    """Register a new admin/employee account."""
+    emp_id = emp_id.strip().upper()
+    name = name.strip()
+    if not emp_id or not name or not password:
+        return False, "All fields (Employee ID, Name, Password) are required."
+    
+    employees = get_all_employees()
+    for emp in employees:
+        if emp["employee_id"] == emp_id:
+            return False, f"Employee ID '{emp_id}' is already registered."
+
+    new_emp = {
+        "employee_id": emp_id,
+        "name": name,
+        "password": password,
+        "role": role,
+        "created_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    }
+    employees.append(new_emp)
+    
+    try:
+        os.makedirs(config.DATA_DIR, exist_ok=True)
+        with open(get_employees_path(), "w", encoding="utf-8") as f:
+            json.dump(employees, f, indent=2)
+        return True, "Employee account registered successfully!"
+    except Exception as e:
+        return False, f"Failed to save employee data: {e}"
+
+
+def authenticate_employee(emp_id: str, password: str) -> tuple[bool, dict]:
+    """Validate employee login credentials."""
+    emp_id = emp_id.strip().upper()
+    employees = get_all_employees()
+    for emp in employees:
+        if emp["employee_id"] == emp_id and emp["password"] == password:
+            return True, emp
+    return False, {}
+

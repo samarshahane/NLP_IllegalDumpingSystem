@@ -7,13 +7,19 @@ import streamlit as st
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from src.storage import get_reports_df
 
-st.set_page_config(page_title="Analytics - DumpWatch", page_icon="📊", layout="wide")
-st.title("📊 Dumping Insights & Analytics Dashboard")
+st.set_page_config(page_title="Analytics - DumpWatch Enterprise", layout="wide")
+
+# Check Auth
+if not st.session_state.get("authenticated", False):
+    st.warning("Restricted Page: Backoffice / Admin authentication required. Please log in from the main portal.")
+    st.stop()
+
+st.title("Dumping Insights & Analytics Dashboard")
 
 df = get_reports_df()
 
 if df.empty:
-    st.info("No reports yet.")
+    st.info("No analytics data available.")
     st.stop()
 
 df["timestamp_dt"] = pd.to_datetime(df["timestamp"], errors="coerce")
@@ -27,7 +33,7 @@ with col1:
     st.plotly_chart(fig1, use_container_width=True)
 
 with col2:
-    st.subheader("Waste Type Distribution (Inc. Custom Types)")
+    st.subheader("Waste Type Distribution")
     waste_counts = df["waste_type"].value_counts().reset_index()
     fig2 = px.pie(waste_counts, names="waste_type", values="count", hole=0.4)
     st.plotly_chart(fig2, use_container_width=True)
@@ -44,7 +50,7 @@ with col3:
 
 with col4:
     st.subheader("Severity Distribution")
-    fig4 = px.histogram(df, x="severity", nbins=5, color_discrete_sequence=["#EBCB8B"])
+    fig4 = px.histogram(df, x="severity", nbins=5, color_discrete_sequence=["#1E3A8A"])
     st.plotly_chart(fig4, use_container_width=True)
 
 st.divider()
@@ -58,7 +64,8 @@ with col5:
     st.plotly_chart(fig5, use_container_width=True)
 
 with col6:
-    st.subheader("Duplicate Filtered Status")
+    st.subheader("Incident Resolution Status")
     status_counts = df["status"].value_counts().reset_index()
     fig6 = px.bar(status_counts, x="status", y="count", color="status")
     st.plotly_chart(fig6, use_container_width=True)
+

@@ -1,0 +1,16 @@
+[
+  {
+    "employee_id": "EMP1001",
+    "name": "System Administrator",
+    "password": "admin",
+    "role": "Administrator",
+    "created_at": "2026-10-04 15:38:38"
+  },
+  {
+    "employee_id": "123321",
+    "name": "Samar Shahane",
+    "password": "123321",
+    "role": "System Administrator",
+    "created_at": "2026-10-04 16:57:47"
+  }
+]
