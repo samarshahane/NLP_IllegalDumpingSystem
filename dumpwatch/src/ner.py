@@ -12,7 +12,12 @@ def get_nlp_model():
     try:
         nlp = spacy.load("en_core_web_sm")
     except OSError:
-        nlp = spacy.blank("en")
+        try:
+            import spacy.cli
+            spacy.cli.download("en_core_web_sm")
+            nlp = spacy.load("en_core_web_sm")
+        except Exception:
+            nlp = spacy.blank("en")
 
     # Add EntityRuler before ner component
     if "entity_ruler" not in nlp.pipe_names:
