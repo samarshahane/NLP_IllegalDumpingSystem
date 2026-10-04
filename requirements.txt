@@ -3,30 +3,25 @@ streamlit>=1.35
 pandas>=2.0
 numpy>=1.26
 
-# --- NLP ---
+# --- NLP & Models ---
 transformers>=4.40
 torch>=2.2
+torchvision>=0.17
 sentence-transformers>=2.7
 spacy>=3.7
-# after install run: python -m spacy download en_core_web_sm
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl#egg=en_core_web_sm
 
-# --- Geo / maps ---
+# --- Geo & Maps ---
 geopy>=2.4
 folium>=0.16
 streamlit-folium>=0.20
 
-# --- ML / analytics ---
+# --- ML & Analytics ---
 scikit-learn>=1.4
 plotly>=5.20
 
-# --- Storage ---
+# --- Storage & Utilities ---
 tinydb>=4.8
-pymongo>=4.7          # optional, only if you use MongoDB Atlas
-
-# --- Images (optional evidence check) ---
 Pillow>=10.0
-
-# --- Utilities ---
 python-dotenv>=1.0
-faker>=24.0           # synthetic data generation
-pytest>=8.0
+faker>=24.0
