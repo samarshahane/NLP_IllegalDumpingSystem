@@ -1,144 +1,158 @@
-# DumpWatch: Illegal Dumping Detection and Decision Support System
+# DumpWatch: Smart AI-Powered Illegal Dumping Detection & Decision Support System
 
-**NLP Complex Engineering Problem | Group-7**
+DumpWatch is an end-to-end NLP, Computer Vision, and Geospatial Intelligence system designed to streamline municipal waste management and combat illegal garbage dumping in **Thane, Maharashtra**.
 
-An AI-driven system that collects illegal waste dumping reports from many channels, understands them using NLP, places them on a map, finds hotspots, removes duplicates, predicts risky zones, and recommends how a municipality should respond.
+The platform empowers citizens to report illegal dumping incidents while enabling city administrators to automatically classify complaints, eliminate duplicate reports, predict high-risk dumping zones, and optimize cleanup crew dispatch routes.
 
-## Problem Statement
+---
 
-Illegal waste dumping reported through citizen complaints and social media often goes unnoticed because monitoring is manual. This causes environmental damage and slow municipal action.
+## Key Capabilities & Features
 
-**Goal:** Build a system that combines NLP, Machine Learning, GIS, computer vision (where image evidence exists) and predictive analytics to:
+1. **Citizen Complaint Portal & AI Vision Verification**
+   - **Zero-Shot NLP Classification**: Automatically determines whether a text complaint is related to illegal waste dumping using Hugging Face Transformers (`DistilBERT`).
+   - **Image Evidence Inspection**: Uses OpenAI CLIP (`open-clip-torch`) to visually verify if uploaded images contain actual waste debris before processing.
+   - **Multi-lingual / Hinglish Processing**: Supports English and Hinglish complaint descriptions (e.g., *"Bohot sara chemical waste dumped near Kopri station"*).
 
-1. Collect reports from multiple channels
-2. Classify illegal dumping incidents automatically
-3. Extract dumping locations using Named Entity Recognition (NER)
-4. Identify dumping hotspots
-5. Detect duplicate reports
-6. Predict high-risk dumping zones from historical patterns
-7. Show real-time dashboards with alerts and optimized response recommendations
+2. **Automated Location Extraction & Deduplication**
+   - **Custom NER Location Parsing**: Built using spaCy (`en_core_web_sm`) and a custom `EntityRuler` to extract Thane landmarks, streets, and areas (e.g., *Wagle Estate*, *Kopri*, *Ghodbunder Road*).
+   - **Semantic & Spatial Deduplication**: Combines Sentence Transformers (`all-MiniLM-L6-v2`) semantic similarity with Haversine spatial proximity matching to merge duplicate reports.
 
-## Architecture
+3. **Geospatial Analytics & Live Interactive Map**
+   - **Real-Time Live Map**: Interactive Folium map displaying color-coded markers for pending, resolved, and duplicate complaints across Thane.
+   - **DBSCAN Spatial Hotspot Clustering**: Groups nearby dumping incidents to highlight high-density problem areas.
 
-```
-[1. Input Feeds]        [2. Core NLP Pipeline]         [3. Geo + Storage]        [4. Dashboard]
-Citizen reports   -->   Preprocessing                  Geocoding (geopy)         Real-time map
-Social media      -->   Zero-shot classifier     -->   TinyDB / MongoDB    -->   Risk heatmap
-Email / web forms -->   Custom NER (spaCy)             (with embeddings)         Analytics panel
-Image evidence    -->   Duplicate detection                                      Decision support
-```
+4. **Predictive Risk Heatmap & Municipal Decision Support**
+   - **Random Forest Risk Modeling**: Predicts 500m x 500m grid cell risk levels across the city based on historical incident density and severity.
+   - **Automated Dispatch Routing**: Generates optimal cleanup truck routes connecting high-priority incident hotspots.
+   - **Admin Management Portal**: Authenticated dashboard allowing city officials to review, update report statuses, and generate PDF/CSV summary reports.
 
-## Features
+5. **Dynamic UI Theme Engine**
+   - Seamless **Light Mode** and **Dark Mode** toggling with high-contrast text legibility and custom smart-city wallpaper backgrounds.
 
-| Module | What it does | Tech |
-|---|---|---|
-| Ingestion | Accepts text, CSV, form input, optional image | Streamlit, pandas |
-| Classification | Is it illegal dumping? What type of waste? | Hugging Face zero-shot |
-| NER | Pulls out locations and landmarks | spaCy + EntityRuler |
-| Geocoding | Converts place text to coordinates | geopy / Nominatim (cached) |
-| Deduplication | Flags reports that describe the same incident | sentence-transformers + cosine similarity + distance + time window |
-| Hotspots | Clusters incidents into hotspots | DBSCAN (haversine) |
-| Risk prediction | Predicts next-week risk per grid cell | scikit-learn |
-| Image check | Optional: does the photo show dumped waste? | CLIP zero-shot |
-| Alerts | Flags hotspot spikes and high-severity reports | Rule-based |
-| Decision support | Suggests crew, priority and action | Rule-based scoring |
-| Dashboard | Map, heatmap, charts, alerts | Streamlit, folium, plotly |
+---
+
+## Tech Stack & Libraries
+
+- **Frontend & App Framework**: Streamlit (Multipage architecture)
+- **Natural Language Processing**: Hugging Face `transformers`, `sentence-transformers`, `spaCy`
+- **Computer Vision**: OpenAI `open_clip_torch`, `torchvision`, `Pillow`
+- **Geospatial & Mapping**: `folium`, `streamlit-folium`, `geopy`
+- **Machine Learning & Analytics**: `scikit-learn` (Random Forest, DBSCAN), `pandas`, `numpy`, `plotly`
+- **Database Storage**: TinyDB / JSON document storage
+- **Containerization**: Docker
+
+---
 
 ## Project Structure
 
 ```
 dumpwatch/
-├── app.py                  # Streamlit entry point (home + report submission)
-├── config.py               # labels, thresholds, paths
-├── requirements.txt
-├── README.md
-├── data/
-│   └── sample_reports.csv  # synthetic data (generated)
-├── scripts/
-│   └── generate_data.py    # creates synthetic reports
-├── src/
-│   ├── preprocess.py
-│   ├── classifier.py
-│   ├── ner.py
-│   ├── geocode.py
-│   ├── dedup.py
-│   ├── storage.py
-│   ├── hotspot.py
-│   ├── risk.py
-│   ├── alerts.py
-│   ├── decision.py
-│   ├── vision.py
-│   └── pipeline.py         # runs one report through all steps
+├── app.py                      # Main Streamlit application entry point & Citizen Portal
+├── config.py                   # Global configuration settings & directory paths
+├── requirements.txt            # Python dependencies (includes direct spaCy model link)
+├── Dockerfile                  # Production Docker container configuration
+├── README.md                   # Project documentation
+├── assets/                     # UI background images & assets
+├── data/                       # Reports database, employee lookup, and cached geocodes
 ├── pages/
-│   ├── 1_Live_Map.py
-│   ├── 2_Risk_Heatmap.py
-│   ├── 3_Analytics.py
-│   └── 4_Decision_Support.py
-└── tests/
-    └── test_pipeline.py
+│   ├── 1_Live_Map.py           # Interactive GIS incident map
+│   ├── 2_Risk_Heatmap.py       # Predictive risk density map
+│   ├── 3_Analytics.py          # Municipal metrics & breakdown graphs
+│   └── 4_Decision_Support.py   # Admin dispatch routing & report management
+├── src/                        # Core backend processing modules
+│   ├── classifier.py           # NLP zero-shot intent classifier
+│   ├── vision.py               # CLIP vision verification model
+│   ├── ner.py                  # spaCy location parser for Thane
+│   ├── dedup.py                # Semantic & spatial duplicate detector
+│   ├── geocode.py              # Geocoding & coordinate lookup
+│   ├── pipeline.py             # End-to-end report pipeline handler
+│   ├── hotspot.py              # DBSCAN spatial clustering
+│   ├── risk.py                 # Random Forest risk prediction
+│   ├── decision.py             # Route planning & dispatch engine
+│   └── storage.py              # TinyDB database manager
+└── scripts/
+    └── generate_data.py        # Synthetic dataset generator for Thane
 ```
 
-## Setup
+---
 
-```bash
-# 1. Create and activate a virtual environment
-python -m venv venv
-venv\Scripts\activate          # Windows
-# source venv/bin/activate     # Mac/Linux
+## How to Run Locally
 
-# 2. Install dependencies
-pip install -r requirements.txt
-python -m spacy download en_core_web_sm
+### Prerequisites
+- Python 3.10 or higher installed.
 
-# 3. Generate sample data
-python scripts/generate_data.py
+### Installation Steps
 
-# 4. Run the app
-streamlit run app.py
-```
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/samarshahane/NLP_IllegalDumpingSystem.git
+   cd NLP_IllegalDumpingSystem/dumpwatch
+   ```
 
-The first run downloads the Hugging Face models (about 1 GB total), so it takes a few minutes. After that they are cached.
+2. **Create and activate a virtual environment**:
+   - **Windows (PowerShell)**:
+     ```powershell
+     python -m venv venv
+     .\venv\Scripts\Activate
+     ```
+   - **macOS / Linux**:
+     ```bash
+     python3 -m venv venv
+     source venv/bin/activate
+     ```
 
-### Optional: MongoDB Atlas
+3. **Install dependencies**:
+   ```bash
+   pip install -r requirements.txt
+   python -m spacy download en_core_web_sm
+   ```
 
-By default the app uses **TinyDB** (a local JSON file, no setup). To use MongoDB Atlas instead, create a `.env` file:
+4. **Launch the Streamlit App**:
+   ```bash
+   streamlit run app.py
+   ```
+   Open your browser and navigate to `http://localhost:8501`.
 
-```
-STORAGE_BACKEND=mongodb
-MONGODB_URI=your_connection_string
-```
+---
 
-## How It Works (Short)
+## How to Run via Docker
 
-1. A report comes in as text (and maybe an image).
-2. Text is cleaned, then a zero-shot model decides if it is illegal dumping and what kind of waste.
-3. The NER model pulls out the location and landmarks.
-4. The location is converted to coordinates, cached to respect Nominatim limits.
-5. The report is turned into an embedding and compared to recent nearby reports. High similarity means it is a duplicate.
-6. The report is saved with its status (Pending, Duplicate, Resolved).
-7. Hotspots and risk scores are recomputed, and alerts are raised if needed.
-8. The dashboard shows everything live.
+1. **Build the Docker Image**:
+   ```bash
+   docker build -t dumpwatch .
+   ```
 
-## Tech Stack
+2. **Run the Docker Container**:
+   ```bash
+   docker run -p 8501:8501 dumpwatch
+   ```
+   Access the app at `http://localhost:8501`.
 
-Python, Streamlit, Hugging Face Transformers, spaCy, sentence-transformers, scikit-learn, geopy, folium, plotly, TinyDB / MongoDB Atlas.
+---
 
-## Limitations
+## Sample Test Complaints for Presentation & Demo
 
-- Uses synthetic data for training and demo; real municipal data would improve accuracy.
-- Free Nominatim geocoding is rate-limited (1 request per second), so results are cached.
-- Zero-shot classification is less accurate than a fine-tuned model.
-- Social media feeds are simulated through CSV upload, not live APIs.
+You can test the system live using these sample complaint scenarios:
 
-## Team
+1. **Standard Dumping Complaint**:
+   > *"Large pile of plastic bottles and household garbage dumped openly near Kopri station market area."*
 
-**Group-7**, NLP Complex Engineering Problem
+2. **Hinglish Complaint**:
+   > *"Bohot sara chemical waste aur kachra dumped openly near Wagle Estate drain."*
 
-| Name | Roll No |
-|---|---|
-| | |
-| | |
-| | |
-| | |
+3. **Urgent Medical Waste Complaint**:
+   > *"Urgent! Syringes and hazardous medical waste dumped outside Kopri hospital gate!"*
 
-**Guide:** 
+4. **Duplicate Complaint Pair** (Test immediately after submitting #1 above):
+   > *"Re-reporting again: plastic waste still lying unattended near Kopri station area!"*
+
+5. **Irrelevant / Non-Dumping Complaint** (Tests AI filtering):
+   > *"Heavy traffic congestion and deep potholes on main Ghodbunder flyover since morning."*
+
+---
+
+## Admin Portal Login Credentials
+
+To access the municipal administrative dashboard:
+- **Role**: Administrator
+- **Password**: `admin123`
